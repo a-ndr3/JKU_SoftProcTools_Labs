@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ru" xml:lang="ru" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Practice: Code review best practices</title>
+<meta name="uma.type" content="Practice">
+<meta name="uma.name" content="code_review_best_practices">
+<meta name="uma.presentationName" content="Code review best practices">
+<meta name="element_type" content="Practice">
+<meta name="filetype" content="description">
+<meta name="role" content="none">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_uVuH0NDNEe2sl55HJPdumQ"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Practice: Code review best practices</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/practice.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top">A document that contains the responsibilities and expectations for reviewers.</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Relationships</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Content References</th><td class="sectionTableCell">
+<ul>
+<li>Work Products</li>
+<ul>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/specification_for_reviews_755D3699.html" guid="_oC6DgNFdEe2T9Kw2TWBJNg">Specification for reviews</a>
+</li>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/project_review_documents_EB8ACBF9.html" guid="_JlPM8NCpEe2sl55HJPdumQ">Review Documents</a>
+</li>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/review_report_F4E30175.html" guid="_Y0JrUNCiEe2sl55HJPdumQ">Review Report</a>
+</li>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/analysis_report_706CADE6.html" guid="_w_6dANCoEe2sl55HJPdumQ">Analysis Report</a>
+</li>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/specification_for_tests_A07F3D46.html" guid="_T8UoYNFgEe2T9Kw2TWBJNg">Specification for tests</a>
+</li>
+<li>
+<img src="./../../../images/deliverable.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/workproducts/test_report_9795755E.html" guid="_1pIOYNCpEe2sl55HJPdumQ">Test report</a>
+</li>
+</ul>
+</ul>
+<ul>
+<li>Tasks</li>
+<ul>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/read_code_and_documentation_185FD34B.html" guid="_gbp5INCrEe2sl55HJPdumQ">Read Code and Documentation</a>
+</li>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/rewiew_of_code_AE88F5DB.html" guid="_EjjpgNCuEe2sl55HJPdumQ">Rewiew of code</a>
+</li>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/monitor_effectivness_of_code_review_6FEB331E.html" guid="_XlBMoNDMEe2sl55HJPdumQ">Monitor Effectivness of Code Review</a>
+</li>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/review_of_requirements_AA7980EE.html" guid="_AARBUNCqEe2sl55HJPdumQ">Review of Requirements</a>
+</li>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/track_progress_of_code_review_6A8A9BFC.html" guid="_MrVtUNDMEe2sl55HJPdumQ">Track Progress of Code Review</a>
+</li>
+<li>
+<img src="./../../../images/task.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/tasks/write_report_on_code_review_75F0FD5B.html" guid="_3ZUHsNCrEe2sl55HJPdumQ">Write Report on Code Review</a>
+</li>
+</ul>
+</ul>
+<ul>
+<li>
+<img src="./../../../images/guidance.gif" height="16" width="16"><a href="./../../../CodeReviewPlugin/guidances/guidelines/reviewer_guideline_85C78E46.html" guid="_oOcAgNDNEe2sl55HJPdumQ">Reviewer guidelines</a>
+</li>
+</ul>
+</td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Inputs</th><td class="sectionTableCell">
+<ul>
+<li>
+<a href="./../../../CodeReviewPlugin/workproducts/source_code_BCC89904.html" guid="_PX3-INCiEe2sl55HJPdumQ">Source Code</a>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Purpose</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableCell">To help reviewers to do better job by providing them with support.</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Goals</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableCell">Make it easier for code reviewers to remember important parts of this area.</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableCell">May show some examples of effective strategies how to do better code reviews and&nbsp;how to&nbsp;provide constructive
+feedback. As well as focusing on the most important issues and critical areas of code.</td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>
