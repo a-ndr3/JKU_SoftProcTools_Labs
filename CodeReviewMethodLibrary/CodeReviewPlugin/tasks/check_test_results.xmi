@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nc5-vjSgk7sPPR-AlcXriQ" name=",_1i7N0NCrEe2sl55HJPdumQ" guid="-nc5-vjSgk7sPPR-AlcXriQ">
+  <sections xmi:id="_tkN8gNFIEe2T9Kw2TWBJNg" name="Check test results for code under review" guid="_tkN8gNFIEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_yrq-gNFIEe2T9Kw2TWBJNg" name="Review test results and check if any failed or any issue or bug has been found" guid="_yrq-gNFIEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_4XHeYNFIEe2T9Kw2TWBJNg" name="Analyze the cause of issued found in previous step" guid="_4XHeYNFIEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_-HL_kNFIEe2T9Kw2TWBJNg" name="Prepare full information about found issues to developers or reviwers" guid="_-HL_kNFIEe2T9Kw2TWBJNg"/>
+  <purpose>To see if code has the required quality</purpose>
+</org.eclipse.epf.uma:TaskDescription>

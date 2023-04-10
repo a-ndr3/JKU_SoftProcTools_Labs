@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UCTimcPccForsfzlLWpxng" name=",_xjevMNDLEe2sl55HJPdumQ" guid="-UCTimcPccForsfzlLWpxng">
+  <sections xmi:id="_j7_hMNFMEe2T9Kw2TWBJNg" name="Run analysis tools, code coverage tools and other tools that help to measure quality of the submitted code" guid="_j7_hMNFMEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_rFxnUNFMEe2T9Kw2TWBJNg" name="Review the results to identify if any areas has potential issues or space for  improvement" guid="_rFxnUNFMEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_zClF0NFMEe2T9Kw2TWBJNg" name="Document or inform developers/reviwers about found results" guid="_zClF0NFMEe2T9Kw2TWBJNg"/>
+  <purpose>To get overall quality of the code.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

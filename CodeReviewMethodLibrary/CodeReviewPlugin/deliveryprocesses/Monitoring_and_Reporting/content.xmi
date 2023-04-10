@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-qLAZvJhCDS-B5zT_n10o5A" name="Monitoring_and_Reporting,_09CBgdFmEe2T9Kw2TWBJNg" guid="-qLAZvJhCDS-B5zT_n10o5A">
+    <mainDescription>General process of gathering data about Code Review Process</mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Qu1Z23_yY3iFLWRrE5_vYA" name="project_manager,_5oiuYtFmEe2T9Kw2TWBJNg" guid="-Qu1Z23_yY3iFLWRrE5_vYA">
+    <refinedDescription>A personel responsible for overseeing the development process&amp;nbsp;one part of which is&amp;nbsp;code review. Tracks progress&#xD;
+of code evolving, code review timelines, project timelines and coordinates all teams that involved in the development&#xD;
+process.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-akrAoCp9ByK4qNuUkY4LGg" name="senior_reviewer,_5oiuZNFmEe2T9Kw2TWBJNg" guid="-akrAoCp9ByK4qNuUkY4LGg">
+    <refinedDescription>A personel responsible for organization and coordination&amp;nbsp;of effective code review process. Oversees the process of&#xD;
+code reviewing by resolving inner conflicts, sets review requirements for project's needs and checks quality of reviews as&#xD;
+well as if&amp;nbsp;rewiews follow&amp;nbsp;standards that required by project or company.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MY0VkYyjDevnML8i-57-Lw" name="review_report,_5oiubNFmEe2T9Kw2TWBJNg" guid="-MY0VkYyjDevnML8i-57-Lw">
+    <refinedDescription>Contains feedback and comments. May also contain suggestions for improvements, potential weak spots (i.e potential bugs).&#xD;
+Summary and recomendations.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-L8WftkiVMMHl7lZlLWL8Hg" name="improved_code_quality,_5oiucNFmEe2T9Kw2TWBJNg" guid="-L8WftkiVMMHl7lZlLWL8Hg">
+    <refinedDescription>Brief description: Makes it easier to reuse the code and make guidelines out of it&lt;br />&#xD;
+&lt;br />&#xD;
+The code review process leads to higher code quality by identifying and addressing issues, potential bugs and areas for&#xD;
+improvement.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EbtG9rtSQ-WHPDASBIlOOA" name="increased_team_collaboration,_5oiuctFmEe2T9Kw2TWBJNg" guid="-EbtG9rtSQ-WHPDASBIlOOA">
+    <refinedDescription>Brief description: Better teamwork and cooperation in future projects&lt;br />&#xD;
+&lt;br />&#xD;
+The code review process makes collaboration among team members better, promoting knowledge sharing and collective ownership&#xD;
+of the codebase</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-85bLWXenVw1oMmxC0_RjWw" name="specification_for_reviews,_5oiueNFmEe2T9Kw2TWBJNg" guid="-85bLWXenVw1oMmxC0_RjWw">
+    <refinedDescription>Base field</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

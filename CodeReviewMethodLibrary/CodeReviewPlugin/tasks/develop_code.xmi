@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uWIYyByq1XBzP7Yxml23uA" name=",_KSiQcNCsEe2sl55HJPdumQ" guid="-uWIYyByq1XBzP7Yxml23uA">
+  <sections xmi:id="_H0H-8NFJEe2T9Kw2TWBJNg" name="Fully understand the concept of a task, its requirements/specifications potential hiccups and weak spots in design" guid="_H0H-8NFJEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_dEgzYNFJEe2T9Kw2TWBJNg" name="Design and implement code solution for the task following required architecture, patterns, other coding standards" guid="_dEgzYNFJEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_lgQ3sNFJEe2T9Kw2TWBJNg" name="*Do unit testing to check for overall quality of the code and if it works properly" guid="_lgQ3sNFJEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_wBdlkNFJEe2T9Kw2TWBJNg" name="Document the code and if needed provide with explanations of parts of the code that has not obvious solutions" guid="_wBdlkNFJEe2T9Kw2TWBJNg"/>
+  <purpose>The first step in code review process - to write a code.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

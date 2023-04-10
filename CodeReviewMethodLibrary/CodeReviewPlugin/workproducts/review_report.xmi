@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZyEZwsiFD6ZNmAjgHKG7dQ" name="new_deliverable,_Y0JrUNCiEe2sl55HJPdumQ" guid="-ZyEZwsiFD6ZNmAjgHKG7dQ" changeDate="2023-04-01T17:34:42.306+0200">
+  <mainDescription>Contains feedback and comments. May also contain suggestions for improvements, potential weak spots (i.e potential bugs).&#xD;
+Summary and recomendations.</mainDescription>
+  <purpose>to validate source code</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

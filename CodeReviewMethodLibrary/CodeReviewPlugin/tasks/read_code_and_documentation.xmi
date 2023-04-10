@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uzb24wKgiBikkNBpNzcQlw" name=",_gbp5INCrEe2sl55HJPdumQ" guid="-uzb24wKgiBikkNBpNzcQlw">
+  <sections xmi:id="_qD928NFKEe2T9Kw2TWBJNg" name="Carefully review submitted code, checking if it meets requirements, specifications and other standards that required by a project" guid="_qD928NFKEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_0wec8NFKEe2T9Kw2TWBJNg" name="*Check provided documentation if needed" guid="_0wec8NFKEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_7V8VENFKEe2T9Kw2TWBJNg" name="Create list of what should be changed, could be improved and make suggestions on it, escpecially why it should be done" guid="_7V8VENFKEe2T9Kw2TWBJNg"/>
+  <purpose>To see if code meet requirments.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

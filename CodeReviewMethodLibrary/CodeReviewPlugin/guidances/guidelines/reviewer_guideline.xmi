@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tZIJAH_lnH_YxvxHE7Z0EA" name="new_guideline,_oOcAgNDNEe2sl55HJPdumQ" guid="-tZIJAH_lnH_YxvxHE7Z0EA" changeDate="2023-04-01T22:55:03.858+0200">
+  <mainDescription>Brief desciption(cant save info in the field above): Helps reviewers to get ready for their code reviews.&lt;br />&#xD;
+&lt;br />&#xD;
+A document contains the responsibilities and expectations for reviewers, as well as strategies how to provide feedback,&#xD;
+engage in discussions, and prioritize review efforts.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

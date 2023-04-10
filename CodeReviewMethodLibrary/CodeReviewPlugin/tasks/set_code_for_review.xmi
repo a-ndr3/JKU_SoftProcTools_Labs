@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CkSJ3elHHUAszY5bFvtJiw" name=",_NTPBUNCsEe2sl55HJPdumQ" guid="-CkSJ3elHHUAszY5bFvtJiw" changeDate="2023-04-01T22:10:46.810+0200">
+  <mainDescription>&lt;p>&#xD;
+    Contains necessary additions to code so it is easier to comment/write a review on. Also, may have specific context to&#xD;
+    clarify some features for reviewer so it is easier to write a feedback.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_7VeJENFMEe2T9Kw2TWBJNg" name="Prepare the code for review by checking if it follows coding standards, project guidelines and other requirements" guid="_7VeJENFMEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_EqMcwNFNEe2T9Kw2TWBJNg" name="Create a code review request" guid="_EqMcwNFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_It9NINFNEe2T9Kw2TWBJNg" name="*Ensure that request can be seen in a system(i.e GitHub) or notify reviewers/testers or others who is responsible for reviews and provide them with access to the code and any relevant documentation" guid="_It9NINFNEe2T9Kw2TWBJNg"/>
+  <purpose>To get a feedback on the matter if the code follow standards, requirements, guidelines.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

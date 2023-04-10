@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3nXX85eDAMZrQ3skNADE4Q" name="new_deliverable,_AHPQMNCjEe2sl55HJPdumQ" guid="-3nXX85eDAMZrQ3skNADE4Q" changeDate="2023-04-01T17:40:58.982+0200">
+  <purpose>to set review process, timeline, participants.</purpose>
+</org.eclipse.epf.uma:DeliverableDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fH1Zx-KqXHd6shxiIO3IhA" name=",_56kV8NDLEe2sl55HJPdumQ" guid="-fH1Zx-KqXHd6shxiIO3IhA">
+  <sections xmi:id="_5W-1YNFHEe2T9Kw2TWBJNg" name="Help developer to understand the issues raised by reviwers" guid="_5W-1YNFHEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_8q1LwNFHEe2T9Kw2TWBJNg" name="Take part in discussing of possible solutions" guid="_8q1LwNFHEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_KRmjcNFIEe2T9Kw2TWBJNg" name="Provide guidance on requirements and comment on possible features" guid="_KRmjcNFIEe2T9Kw2TWBJNg"/>
+  <purpose>&lt;p>&#xD;
+    To provide recommendations for code improvements&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

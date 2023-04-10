@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_M-yXANI7Ee2T9Kw2TWBJNg" guid="_M-yXANI7Ee2T9Kw2TWBJNg">
+    <resourceDescriptors xmi:id="_M-7g8NI7Ee2T9Kw2TWBJNg" id="-PJd2u9iP9bBpBKK2gy7v0Q" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_M8QncNI7Ee2T9Kw2TWBJNg" name="effective_code_review_process" guid="_M8QncNI7Ee2T9Kw2TWBJNg">
+    <methodElementProperty xmi:id="_M8QnctI7Ee2T9Kw2TWBJNg" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_hRurwNI7Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_M8QncdI7Ee2T9Kw2TWBJNg" name="effective_code_review_process" guid="_M8QncdI7Ee2T9Kw2TWBJNg" presentationName="Effective Code Review Process">
+      <presentation xmi:id="-PJd2u9iP9bBpBKK2gy7v0Q" href="uma://-PJd2u9iP9bBpBKK2gy7v0Q#-PJd2u9iP9bBpBKK2gy7v0Q"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

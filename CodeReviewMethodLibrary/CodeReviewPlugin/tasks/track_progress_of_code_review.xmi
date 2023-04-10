@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EGPC36MMMx6q7mYAa2TR6A" name=",_MrVtUNDMEe2sl55HJPdumQ" guid="-EGPC36MMMx6q7mYAa2TR6A">
+  <sections xmi:id="_c-NaQNFNEe2T9Kw2TWBJNg" name="Monitor the progress of the code review, including the completion of tasks and provided feedback" guid="_c-NaQNFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_kB4RUNFNEe2T9Kw2TWBJNg" name="Ensure that the review process is going according to the established timeline" guid="_kB4RUNFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_nMqLQNFNEe2T9Kw2TWBJNg" name="*Make sure that any updates or changes in the review process are known by all participants of the process" guid="_nMqLQNFNEe2T9Kw2TWBJNg"/>
+  <purpose>To manage and coordinate team members to ensure timely completeion of code review processes.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

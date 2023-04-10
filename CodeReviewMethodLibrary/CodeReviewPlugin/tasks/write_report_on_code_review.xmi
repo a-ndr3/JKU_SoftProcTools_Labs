@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UkWMCHCo5a1WlKLqcVoA7Q" name="write_report_on_code_review,_3ZUHsNCrEe2sl55HJPdumQ" guid="-UkWMCHCo5a1WlKLqcVoA7Q" changeDate="2023-04-01T22:17:49.345+0200">
+  <mainDescription>To monitor progress of code review. To make it easier for code reviewers to follow guidelines and complete tasks within&#xD;
+timeline.</mainDescription>
+  <sections xmi:id="_F6-SsNFOEe2T9Kw2TWBJNg" name="Summarize the key findings and recommendations from the code review process" guid="_F6-SsNFOEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_HwNWANFOEe2T9Kw2TWBJNg" name="Document any problems and issues that have happened" guid="_HwNWANFOEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_KcCqINFOEe2T9Kw2TWBJNg" name="Write what can possibly be done to resolve these issues and make suggestions for possible improvements so to not have such problems in the future" guid="_KcCqINFOEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_ax6sYNFOEe2T9Kw2TWBJNg" name="Add information on the impact of the code review to the project" guid="_ax6sYNFOEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_fIbZoNFOEe2T9Kw2TWBJNg" name="Share the report (for example with development team, project manager, etc.)" guid="_fIbZoNFOEe2T9Kw2TWBJNg"/>
+  <purpose>To improve process of code reviewing</purpose>
+</org.eclipse.epf.uma:TaskDescription>

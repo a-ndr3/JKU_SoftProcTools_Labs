@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_d6gQMNCZEe2sl55HJPdumQ" guid="_d6gQMNCZEe2sl55HJPdumQ">
+    <subManagers xmi:id="_Vkrl8dFjEe2T9Kw2TWBJNg" href="uma://_Vj7_ENFjEe2T9Kw2TWBJNg#_Vkrl8dFjEe2T9Kw2TWBJNg"/>
+    <subManagers xmi:id="_qQppQdFkEe2T9Kw2TWBJNg" href="uma://_qP6CYNFkEe2T9Kw2TWBJNg#_qQppQdFkEe2T9Kw2TWBJNg"/>
+    <subManagers xmi:id="_SpeRsNFmEe2T9Kw2TWBJNg" href="uma://_Souq0NFmEe2T9Kw2TWBJNg#_SpeRsNFmEe2T9Kw2TWBJNg"/>
+    <subManagers xmi:id="_09xoYNFmEe2T9Kw2TWBJNg" href="uma://_09CBgNFmEe2T9Kw2TWBJNg#_09xoYNFmEe2T9Kw2TWBJNg"/>
+    <subManagers xmi:id="_M-yXANI7Ee2T9Kw2TWBJNg" href="uma://_M8QncNI7Ee2T9Kw2TWBJNg#_M-yXANI7Ee2T9Kw2TWBJNg"/>
+    <resourceDescriptors xmi:id="_X55twtCbEe2sl55HJPdumQ" id="-Qlxtn1_QYFDVSy1it8jCjw" uri="roles/software_developer.xmi"/>
+    <resourceDescriptors xmi:id="_9NEpUdCbEe2sl55HJPdumQ" id="-8Hqmb2GCfvbhKw9LCcwcGg" uri="roles/reviewer.xmi"/>
+    <resourceDescriptors xmi:id="_z50f0dCcEe2sl55HJPdumQ" id="-tBCVKtQGel154hjbSdiM8A" uri="roles/quality_analyst.xmi"/>
+    <resourceDescriptors xmi:id="_awi40NCdEe2sl55HJPdumQ" id="-THUCv0tNMwac0DTo_guWng" uri="roles/project_manager.xmi"/>
+    <resourceDescriptors xmi:id="_Vj28EtCeEe2sl55HJPdumQ" id="-eK4xLkcHXvavCpjFY0xZzA" uri="roles/senior_reviewer.xmi"/>
+    <resourceDescriptors xmi:id="_SX710tCiEe2sl55HJPdumQ" id="-bsbhnxU-0hudSV3Ft8DSNA" uri="workproducts/source_code.xmi"/>
+    <resourceDescriptors xmi:id="_YWuIcNCiEe2sl55HJPdumQ" id="-GNpRFKCq-BD7auwhfWbZDA" uri="workproducts/updated_code.xmi"/>
+    <resourceDescriptors xmi:id="_ayKQINCiEe2sl55HJPdumQ" id="-ZyEZwsiFD6ZNmAjgHKG7dQ" uri="workproducts/review_report.xmi"/>
+    <resourceDescriptors xmi:id="_u9wYAdCoEe2sl55HJPdumQ" id="-3nXX85eDAMZrQ3skNADE4Q" uri="workproducts/code_review_plan.xmi"/>
+    <resourceDescriptors xmi:id="_rq-jMtCpEe2sl55HJPdumQ" id="-egCeEtChxfBq-GyKLqcJIQ" uri="roles/tester.xmi"/>
+    <resourceDescriptors xmi:id="_KzND0dDIEe2sl55HJPdumQ" id="-TGARh2Mtab56lRcJzGG7ZA" uri="tasks/plan_review_process.xmi"/>
+    <resourceDescriptors xmi:id="_Q45PsNDIEe2sl55HJPdumQ" id="-nc5-vjSgk7sPPR-AlcXriQ" uri="tasks/check_test_results.xmi"/>
+    <resourceDescriptors xmi:id="_aQeqINDIEe2sl55HJPdumQ" id="-uWIYyByq1XBzP7Yxml23uA" uri="tasks/develop_code.xmi"/>
+    <resourceDescriptors xmi:id="_jDfX4NDIEe2sl55HJPdumQ" id="-uzb24wKgiBikkNBpNzcQlw" uri="tasks/read_code_and_documentation.xmi"/>
+    <resourceDescriptors xmi:id="_4sCNoNDIEe2sl55HJPdumQ" id="-MTQ8QsPX_D3SaRSL94SMUw" uri="tasks/review_of_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_GXkwkNDJEe2sl55HJPdumQ" id="-Kr9isJg_DMgRS2Qh34cM_A" uri="tasks/rewiew_of_code.xmi"/>
+    <resourceDescriptors xmi:id="_wGA9kdDJEe2sl55HJPdumQ" id="-CkSJ3elHHUAszY5bFvtJiw" uri="tasks/set_code_for_review.xmi"/>
+    <resourceDescriptors xmi:id="_0ZAcwNDJEe2sl55HJPdumQ" id="-qDgo-xeM-SF8tnmNoQg3pA" uri="tasks/update_code.xmi"/>
+    <resourceDescriptors xmi:id="_WTMDQdDKEe2sl55HJPdumQ" id="-UkWMCHCo5a1WlKLqcVoA7Q" uri="tasks/write_report_on_code_review.xmi"/>
+    <resourceDescriptors xmi:id="_uW4QUNDLEe2sl55HJPdumQ" id="-wW6Nd4vgi1ZvVwbXNxJBFQ" uri="tasks/write_tests.xmi"/>
+    <resourceDescriptors xmi:id="_1t7WYNDLEe2sl55HJPdumQ" id="-UCTimcPccForsfzlLWpxng" uri="tasks/run_code_analysis.xmi"/>
+    <resourceDescriptors xmi:id="_KDDccdDMEe2sl55HJPdumQ" id="-fH1Zx-KqXHd6shxiIO3IhA" uri="tasks/assist_developer_in_addressing_issues.xmi"/>
+    <resourceDescriptors xmi:id="_WxA80NDMEe2sl55HJPdumQ" id="-EGPC36MMMx6q7mYAa2TR6A" uri="tasks/track_progress_of_code_review.xmi"/>
+    <resourceDescriptors xmi:id="_gDAFkNDMEe2sl55HJPdumQ" id="-qgeO00zvNH_7jywAs13lJw" uri="tasks/monitor_effectivness_of_code_review.xmi"/>
+    <resourceDescriptors xmi:id="_iSuakNDOEe2sl55HJPdumQ" id="-Bvx9r4hTxlH0lK_G56Qytg" uri="guidances/practices/code_review_best_practices.xmi"/>
+    <resourceDescriptors xmi:id="_2WdOodDOEe2sl55HJPdumQ" id="-gpJOPi4gLvTix-YhTorWWw" uri="guidances/practices/writing_better_code_best_practice.xmi"/>
+    <resourceDescriptors xmi:id="_KJWxYdDPEe2sl55HJPdumQ" id="-NYh6L4RPkPpn9zE9YUMvtg" uri="guidances/guidelines/developer_guideline.xmi"/>
+    <resourceDescriptors xmi:id="_1e4Q8NDPEe2sl55HJPdumQ" id="-tZIJAH_lnH_YxvxHE7Z0EA" uri="guidances/guidelines/reviewer_guideline.xmi"/>
+    <resourceDescriptors xmi:id="_KvRFYNDQEe2sl55HJPdumQ" id="-abaxkeVSO9Vk5Z2Q-5pQDw" uri="workproducts/improved_code_quality.xmi"/>
+    <resourceDescriptors xmi:id="_wFJvANDWEe2T9Kw2TWBJNg" id="-9eQnCVc_rRc4Hez9DzpmcA" uri="workproducts/increased_team_collaboration.xmi"/>
+    <resourceDescriptors xmi:id="_N-YokdDXEe2T9Kw2TWBJNg" id="-Fe_KoYGdDm9Kv7C0hEzF9A" uri="workproducts/following_coding_standards.xmi"/>
+    <resourceDescriptors xmi:id="_jAK-4NFcEe2T9Kw2TWBJNg" id="-AfWirS78NPYI56CFW-LdKQ" uri="workproducts/specification_for_developer.xmi"/>
+    <resourceDescriptors xmi:id="_R2OJcNFeEe2T9Kw2TWBJNg" id="-izmFyV5PM39dYgDj8Kua0g" uri="workproducts/specification_for_reviews.xmi"/>
+    <resourceDescriptors xmi:id="_UQpkgNFeEe2T9Kw2TWBJNg" id="-9maFrOUOTIJFjiCV0oRrmg" uri="workproducts/specification_requirements.xmi"/>
+    <resourceDescriptors xmi:id="_sAOYMdFeEe2T9Kw2TWBJNg" id="-VPVvKviKe6jJtISCvluV8Q" uri="workproducts/specification_for_analysts.xmi"/>
+    <resourceDescriptors xmi:id="_VXEvINFgEe2T9Kw2TWBJNg" id="-cgSrEErbd8BwM4LV_E_mcQ" uri="workproducts/specification_for_tests.xmi"/>
+    <resourceDescriptors xmi:id="_Vkrl8NFjEe2T9Kw2TWBJNg" id="_Vj7_ENFjEe2T9Kw2TWBJNg" uri="deliveryprocesses/Preparation/model.xmi"/>
+    <resourceDescriptors xmi:id="_qQppQNFkEe2T9Kw2TWBJNg" id="_qP6CYNFkEe2T9Kw2TWBJNg" uri="deliveryprocesses/Review/model.xmi"/>
+    <resourceDescriptors xmi:id="_SpVHwdFmEe2T9Kw2TWBJNg" id="_Souq0NFmEe2T9Kw2TWBJNg" uri="deliveryprocesses/Feedback_and_Updates/model.xmi"/>
+    <resourceDescriptors xmi:id="_09n3YNFmEe2T9Kw2TWBJNg" id="_09CBgNFmEe2T9Kw2TWBJNg" uri="deliveryprocesses/Monitoring_and_Reporting/model.xmi"/>
+    <resourceDescriptors xmi:id="_-J_RgdIwEe2T9Kw2TWBJNg" id="-04IZzkcq0o0HAIApO2sMFw" uri="disciplines/project_management.xmi"/>
+    <resourceDescriptors xmi:id="_95N1INIxEe2T9Kw2TWBJNg" id="-isAMNMQ-uB9FnqGrw5YRjw" uri="disciplines/software_development.xmi"/>
+    <resourceDescriptors xmi:id="_qrBsgdIyEe2T9Kw2TWBJNg" id="-VHj8K8LayHFMiVtHSVs1UQ" uri="disciplines/code_review.xmi"/>
+    <resourceDescriptors xmi:id="_Hft_4NIzEe2T9Kw2TWBJNg" id="-sLkmrLQZpi6nddRm94IO4A" uri="disciplines/quality_assurance_and_feedback.xmi"/>
+    <resourceDescriptors xmi:id="_72RwMNI1Ee2T9Kw2TWBJNg" id="-ERzmmdLhVPhBn7ySkSeBdQ" uri="domains/software_design_and_developing.xmi"/>
+    <resourceDescriptors xmi:id="_Mp63EdI3Ee2T9Kw2TWBJNg" id="-Xs0sK8dT9CE1z6LagOnVBg" uri="domains/coding_standards_and_best_practices.xmi"/>
+    <resourceDescriptors xmi:id="_M-omANI7Ee2T9Kw2TWBJNg" id="_M8QncNI7Ee2T9Kw2TWBJNg" uri="capabilitypatterns/effective_code_review_process/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_d6NVQNCZEe2sl55HJPdumQ" name="CodeReviewPlugin" guid="_d6NVQNCZEe2sl55HJPdumQ" presentationName="CodeReviewPlugin" briefDescription="A plugin for code review process" authors="Andrei Blokhin, Josef Shanda">
+    <methodElementProperty xmi:id="_d6gQMtCZEe2sl55HJPdumQ" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_vagjQNCZEe2sl55HJPdumQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVQdCZEe2sl55HJPdumQ" name="Content" guid="_d6NVQdCZEe2sl55HJPdumQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVQtCZEe2sl55HJPdumQ" name="Categories" guid="_d6NVQtCZEe2sl55HJPdumQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVQ9CZEe2sl55HJPdumQ" name="Domains" guid="_d6NVQ9CZEe2sl55HJPdumQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_whFrgNIzEe2T9Kw2TWBJNg" name="software_design_and_developing" guid="_whFrgNIzEe2T9Kw2TWBJNg" presentationName="Software Design and Developing" briefDescription="Includes software design principles, patterns, architecture." guidelines="_rNAqcNDNEe2sl55HJPdumQ" workProducts="_H5st0NDNEe2sl55HJPdumQ _AI-t4NCpEe2sl55HJPdumQ _aIl6MNFcEe2T9Kw2TWBJNg _BP7FkNFeEe2T9Kw2TWBJNg">
+            <methodElementProperty xmi:id="_2JwHsNI0Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-ERzmmdLhVPhBn7ySkSeBdQ" href="uma://-ERzmmdLhVPhBn7ySkSeBdQ#-ERzmmdLhVPhBn7ySkSeBdQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_8nV2MNI0Ee2T9Kw2TWBJNg" name="coding_standards_and_best_practices" guid="_8nV2MNI0Ee2T9Kw2TWBJNg" presentationName="Coding Standards and Best Practices" briefDescription="Important as a part of Soft.Design and Soft.Development domain" guidelines="_rNAqcNDNEe2sl55HJPdumQ" workProducts="_YoSLANDNEe2sl55HJPdumQ _aIl6MNFcEe2T9Kw2TWBJNg _T8UoYNFgEe2T9Kw2TWBJNg">
+            <methodElementProperty xmi:id="_-l8Q4NI0Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Xs0sK8dT9CE1z6LagOnVBg" href="uma://-Xs0sK8dT9CE1z6LagOnVBg#-Xs0sK8dT9CE1z6LagOnVBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="__AuIYNI0Ee2T9Kw2TWBJNg" name="testing" guid="__AuIYNI0Ee2T9Kw2TWBJNg" presentationName="Testing" briefDescription="Needed for creation of test suites and the identification of potential issues in the code." guidelines="_rNAqcNDNEe2sl55HJPdumQ" workProducts="_H5st0NDNEe2sl55HJPdumQ _T8UoYNFgEe2T9Kw2TWBJNg _t5cl4NCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_AIu5UNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_A7BR4NI1Ee2T9Kw2TWBJNg" name="code_analysis_and_quality_measurement" guid="_A7BR4NI1Ee2T9Kw2TWBJNg" presentationName="Code Analysis and Quality Measurement" briefDescription="Important for making code  of better quality." workProducts="_H5st0NDNEe2sl55HJPdumQ _p1uPgNFeEe2T9Kw2TWBJNg _oC6DgNFdEe2T9Kw2TWBJNg _t5cl4NCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_DlqTMNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_EBCAkNI1Ee2T9Kw2TWBJNg" name="project_management" guid="_EBCAkNI1Ee2T9Kw2TWBJNg" presentationName="Project Management" briefDescription="Makes code review process better by creating standards and requirements as well as monitoring its quality and impact" workProducts="_AHPQMNCjEe2sl55HJPdumQ _TxsPgNDNEe2sl55HJPdumQ _JlPM8NCpEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ _GblUYNCpEe2sl55HJPdumQ _AI-t4NCpEe2sl55HJPdumQ _p1uPgNFeEe2T9Kw2TWBJNg _aIl6MNFcEe2T9Kw2TWBJNg _oC6DgNFdEe2T9Kw2TWBJNg _T8UoYNFgEe2T9Kw2TWBJNg _BP7FkNFeEe2T9Kw2TWBJNg">
+            <methodElementProperty xmi:id="_E3MMgNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_FbMRcNI1Ee2T9Kw2TWBJNg" name="requirements_analysis" guid="_FbMRcNI1Ee2T9Kw2TWBJNg" presentationName="Requirements Analysis" workProducts="_AHPQMNCjEe2sl55HJPdumQ _JlPM8NCpEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ _AI-t4NCpEe2sl55HJPdumQ _BP7FkNFeEe2T9Kw2TWBJNg">
+            <methodElementProperty xmi:id="_IvpEwNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_JdKSENI1Ee2T9Kw2TWBJNg" name="validation" guid="_JdKSENI1Ee2T9Kw2TWBJNg" presentationName="Validation" briefDescription="Neede to make sure that review process works correct and does positive impact on the project" guidelines="_oOcAgNDNEe2sl55HJPdumQ" workProducts="_peWwENCoEe2sl55HJPdumQ _w_6dANCoEe2sl55HJPdumQ _H5st0NDNEe2sl55HJPdumQ _Y0JrUNCiEe2sl55HJPdumQ _oC6DgNFdEe2T9Kw2TWBJNg _BP7FkNFeEe2T9Kw2TWBJNg _1pIOYNCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_KSILMNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_L5-SwNI1Ee2T9Kw2TWBJNg" name="programming" guid="_L5-SwNI1Ee2T9Kw2TWBJNg" presentationName="Programming" briefDescription="Self-explanatory. May also include such things as proper choosing of programming languages and frameworks for the project to make improvements for the future projects" guidelines="_rNAqcNDNEe2sl55HJPdumQ" workProducts="_PX3-INCiEe2sl55HJPdumQ _t5cl4NCpEe2sl55HJPdumQ _S5ZkINCiEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_MrEYgNI1Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVRNCZEe2sl55HJPdumQ" name="Disciplines" guid="_d6NVRNCZEe2sl55HJPdumQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_QD8yINIwEe2T9Kw2TWBJNg" name="project_management" guid="_QD8yINIwEe2T9Kw2TWBJNg" presentationName="Project Management" briefDescription="Help to plan, execution and monitoring of the code review process " tasks="_BSRgINDIEe2sl55HJPdumQ _MrVtUNDMEe2sl55HJPdumQ _XlBMoNDMEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_UyHKYNIwEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-04IZzkcq0o0HAIApO2sMFw" href="uma://-04IZzkcq0o0HAIApO2sMFw#-04IZzkcq0o0HAIApO2sMFw"/>
+            <referenceWorkflows href="uma://_09CBgNFmEe2T9Kw2TWBJNg#_09CBgdFmEe2T9Kw2TWBJNg"/>
+            <referenceWorkflows href="uma://_Vj7_ENFjEe2T9Kw2TWBJNg#_Vj7_EdFjEe2T9Kw2TWBJNg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_VhuCYNIwEe2T9Kw2TWBJNg" name="software_development" guid="_VhuCYNIwEe2T9Kw2TWBJNg" presentationName="Software development" briefDescription="Includes creation, modification, testing of the code" guidelines="_rNAqcNDNEe2sl55HJPdumQ" tasks="_KSiQcNCsEe2sl55HJPdumQ _lHpuMNCrEe2sl55HJPdumQ _NTPBUNCsEe2sl55HJPdumQ _P0CxMNCsEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_W8LOMNIwEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-isAMNMQ-uB9FnqGrw5YRjw" href="uma://-isAMNMQ-uB9FnqGrw5YRjw#-isAMNMQ-uB9FnqGrw5YRjw"/>
+            <referenceWorkflows href="uma://_Vj7_ENFjEe2T9Kw2TWBJNg#_Vj7_EdFjEe2T9Kw2TWBJNg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_XaOcINIwEe2T9Kw2TWBJNg" name="code_review" guid="_XaOcINIwEe2T9Kw2TWBJNg" presentationName="Code Review" briefDescription="Needed to identify potential weak spots of code" guidelines="_oOcAgNDNEe2sl55HJPdumQ" tasks="_AARBUNCqEe2sl55HJPdumQ _gbp5INCrEe2sl55HJPdumQ _EjjpgNCuEe2sl55HJPdumQ _xjevMNDLEe2sl55HJPdumQ _1i7N0NCrEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_YvLc4NIwEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-VHj8K8LayHFMiVtHSVs1UQ" href="uma://-VHj8K8LayHFMiVtHSVs1UQ#-VHj8K8LayHFMiVtHSVs1UQ"/>
+            <referenceWorkflows href="uma://_qP6CYNFkEe2T9Kw2TWBJNg#_qP6CYdFkEe2T9Kw2TWBJNg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ZujPMNIwEe2T9Kw2TWBJNg" name="quality_assurance_and_feedback" guid="_ZujPMNIwEe2T9Kw2TWBJNg" presentationName="Quality Assurance and Feedback" briefDescription="Final stage of Code Review process" tasks="_AARBUNCqEe2sl55HJPdumQ _xjevMNDLEe2sl55HJPdumQ _1i7N0NCrEe2sl55HJPdumQ _56kV8NDLEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_a_VhoNIwEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-sLkmrLQZpi6nddRm94IO4A" href="uma://-sLkmrLQZpi6nddRm94IO4A#-sLkmrLQZpi6nddRm94IO4A"/>
+            <referenceWorkflows href="uma://_Souq0NFmEe2T9Kw2TWBJNg#_Souq0dFmEe2T9Kw2TWBJNg"/>
+            <referenceWorkflows href="uma://_09CBgNFmEe2T9Kw2TWBJNg#_09CBgdFmEe2T9Kw2TWBJNg"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVRdCZEe2sl55HJPdumQ" name="RoleSets" guid="_d6NVRdCZEe2sl55HJPdumQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_tXcyUNI5Ee2T9Kw2TWBJNg" name="management_and_planning" guid="_tXcyUNI5Ee2T9Kw2TWBJNg" presentationName="Management and Planning" briefDescription="In charge for managing the project, creating requirements, standards, specifications" roles="_0dgbsNCcEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_vqJNsNI5Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_zQiFkNI5Ee2T9Kw2TWBJNg" name="development_team" guid="_zQiFkNI5Ee2T9Kw2TWBJNg" presentationName="Development Team" briefDescription="In charge for developing side (i.e creating architecture, writing code, tests etc.)" roles="_WpNXYNCaEe2sl55HJPdumQ _V89XkNCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_0NrqUNI5Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_25qIYNI5Ee2T9Kw2TWBJNg" name="code_review_team" guid="_25qIYNI5Ee2T9Kw2TWBJNg" presentationName="Code Review Team" briefDescription="In charge for making code reviews, searching of issues in code, checking if code is following required standards" roles="_YxQzkNCbEe2sl55HJPdumQ _bbXXcNCdEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_4QGW4NI5Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_6tgNcNI5Ee2T9Kw2TWBJNg" name="quality_assurance_team" guid="_6tgNcNI5Ee2T9Kw2TWBJNg" presentationName="Quality Assurance Team" briefDescription="In charge for code quality measuring and suggesting improvements for code" roles="_A0_LMNCcEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_8UmuINI5Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVRtCZEe2sl55HJPdumQ" name="WP Types" guid="_d6NVRtCZEe2sl55HJPdumQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVR9CZEe2sl55HJPdumQ" name="Tools" guid="_d6NVR9CZEe2sl55HJPdumQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVSNCZEe2sl55HJPdumQ" name="StandardCategories" guid="_d6NVSNCZEe2sl55HJPdumQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVSdCZEe2sl55HJPdumQ" name="CustomCategories" guid="_d6NVSdCZEe2sl55HJPdumQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVStCZEe2sl55HJPdumQ" name="Hidden" guid="_d6NVStCZEe2sl55HJPdumQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_d6NVS9CZEe2sl55HJPdumQ" name="Custom Categories" guid="_d6NVS9CZEe2sl55HJPdumQ" categorizedElements="_TvkHQNI7Ee2T9Kw2TWBJNg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_TvkHQNI7Ee2T9Kw2TWBJNg" name="code_review_category" guid="_TvkHQNI7Ee2T9Kw2TWBJNg" presentationName="Code Review Category">
+            <methodElementProperty xmi:id="_Y4NcENI7Ee2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Vj7_ENFjEe2T9Kw2TWBJNg#_Vj7_EdFjEe2T9Kw2TWBJNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_qP6CYNFkEe2T9Kw2TWBJNg#_qP6CYdFkEe2T9Kw2TWBJNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Souq0NFmEe2T9Kw2TWBJNg#_Souq0dFmEe2T9Kw2TWBJNg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_09CBgNFmEe2T9Kw2TWBJNg#_09CBgdFmEe2T9Kw2TWBJNg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d6NVTNCZEe2sl55HJPdumQ" name="CoreContent" guid="_d6NVTNCZEe2sl55HJPdumQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7UEyQNCZEe2sl55HJPdumQ" name="code_review_content" guid="_7UEyQNCZEe2sl55HJPdumQ" presentationName="Code Review content" briefDescription="All the content needed to work with code reviews">
+          <methodElementProperty xmi:id="_7UOjQNCZEe2sl55HJPdumQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ERmG4NCaEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_WpNXYNCaEe2sl55HJPdumQ" name="software_developer" guid="_WpNXYNCaEe2sl55HJPdumQ" presentationName="Software Developer" briefDescription="An author of code." guidelines="_rNAqcNDNEe2sl55HJPdumQ" responsibleFor="_PX3-INCiEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_X55twNCbEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qlxtn1_QYFDVSy1it8jCjw" href="uma://-Qlxtn1_QYFDVSy1it8jCjw#-Qlxtn1_QYFDVSy1it8jCjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YxQzkNCbEe2sl55HJPdumQ" name="reviewer" guid="_YxQzkNCbEe2sl55HJPdumQ" presentationName="Reviewer" briefDescription="A reviewer of code." guidelines="_oOcAgNDNEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_9M64UNCbEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-8Hqmb2GCfvbhKw9LCcwcGg" href="uma://-8Hqmb2GCfvbhKw9LCcwcGg#-8Hqmb2GCfvbhKw9LCcwcGg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_A0_LMNCcEe2sl55HJPdumQ" name="quality_analyst" guid="_A0_LMNCcEe2sl55HJPdumQ" presentationName="Quality Analyst" briefDescription="A quality analyst of code.">
+            <methodElementProperty xmi:id="_K9NYYNCcEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tBCVKtQGel154hjbSdiM8A" href="uma://-tBCVKtQGel154hjbSdiM8A#-tBCVKtQGel154hjbSdiM8A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_0dgbsNCcEe2sl55HJPdumQ" name="project_manager" guid="_0dgbsNCcEe2sl55HJPdumQ" presentationName="Project Manager" briefDescription="A personel in charge for the code review process.">
+            <methodElementProperty xmi:id="_awZH0NCdEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-THUCv0tNMwac0DTo_guWng" href="uma://-THUCv0tNMwac0DTo_guWng#-THUCv0tNMwac0DTo_guWng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bbXXcNCdEe2sl55HJPdumQ" name="senior_reviewer" guid="_bbXXcNCdEe2sl55HJPdumQ" presentationName="Senior Reviewer" briefDescription="A personel in charge for coordinating all code reviews.">
+            <methodElementProperty xmi:id="_Vj28ENCeEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-eK4xLkcHXvavCpjFY0xZzA" href="uma://-eK4xLkcHXvavCpjFY0xZzA#-eK4xLkcHXvavCpjFY0xZzA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_PX3-INCiEe2sl55HJPdumQ" name="source_code" guid="_PX3-INCiEe2sl55HJPdumQ" presentationName="Source Code" isAbstract="true">
+            <methodElementProperty xmi:id="_SX710NCiEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-bsbhnxU-0hudSV3Ft8DSNA" href="uma://-bsbhnxU-0hudSV3Ft8DSNA#-bsbhnxU-0hudSV3Ft8DSNA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_S5ZkINCiEe2sl55HJPdumQ" name="updated_code" guid="_S5ZkINCiEe2sl55HJPdumQ" presentationName="Updated Code">
+            <methodElementProperty xmi:id="_YWkXcNCiEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GNpRFKCq-BD7auwhfWbZDA" href="uma://-GNpRFKCq-BD7auwhfWbZDA#-GNpRFKCq-BD7auwhfWbZDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_Y0JrUNCiEe2sl55HJPdumQ" name="review_report" guid="_Y0JrUNCiEe2sl55HJPdumQ" presentationName="Review Report">
+            <methodElementProperty xmi:id="_ayBGMNCiEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZyEZwsiFD6ZNmAjgHKG7dQ" href="uma://-ZyEZwsiFD6ZNmAjgHKG7dQ#-ZyEZwsiFD6ZNmAjgHKG7dQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_AHPQMNCjEe2sl55HJPdumQ" name="code_review_plan" guid="_AHPQMNCjEe2sl55HJPdumQ" presentationName="Code Review Plan">
+            <methodElementProperty xmi:id="_PAUkUNCjEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-3nXX85eDAMZrQ3skNADE4Q" href="uma://-3nXX85eDAMZrQ3skNADE4Q#-3nXX85eDAMZrQ3skNADE4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_peWwENCoEe2sl55HJPdumQ" name="review" guid="_peWwENCoEe2sl55HJPdumQ" presentationName="Review">
+            <methodElementProperty xmi:id="_vY_igNCoEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_w_6dANCoEe2sl55HJPdumQ" name="analysis_report" guid="_w_6dANCoEe2sl55HJPdumQ" presentationName="Analysis Report">
+            <methodElementProperty xmi:id="_0pfLwNCoEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_8Qk48NCoEe2sl55HJPdumQ" name="project_review_plan" guid="_8Qk48NCoEe2sl55HJPdumQ" presentationName="Project Review Plan">
+            <methodElementProperty xmi:id="_9ndMUNCoEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_AI-t4NCpEe2sl55HJPdumQ" name="project_task_list" guid="_AI-t4NCpEe2sl55HJPdumQ" presentationName="Project Task List">
+            <methodElementProperty xmi:id="_Es3v0NCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_GblUYNCpEe2sl55HJPdumQ" name="project_status_reports" guid="_GblUYNCpEe2sl55HJPdumQ" presentationName="Project Status Reports">
+            <methodElementProperty xmi:id="_I2wWUNCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_JlPM8NCpEe2sl55HJPdumQ" name="project_review_documents" guid="_JlPM8NCpEe2sl55HJPdumQ" presentationName="Review Documents">
+            <methodElementProperty xmi:id="_Lo5t0NCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V89XkNCpEe2sl55HJPdumQ" name="tester" guid="_V89XkNCpEe2sl55HJPdumQ" presentationName="Tester" briefDescription="Tests product code.">
+            <methodElementProperty xmi:id="_rq-jMNCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-egCeEtChxfBq-GyKLqcJIQ" href="uma://-egCeEtChxfBq-GyKLqcJIQ#-egCeEtChxfBq-GyKLqcJIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_t5cl4NCpEe2sl55HJPdumQ" name="tests" guid="_t5cl4NCpEe2sl55HJPdumQ" presentationName="Tests">
+            <methodElementProperty xmi:id="_1HikQNCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_1pIOYNCpEe2sl55HJPdumQ" name="test_report" guid="_1pIOYNCpEe2sl55HJPdumQ" presentationName="Test report">
+            <methodElementProperty xmi:id="_2ozisNCpEe2sl55HJPdumQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AARBUNCqEe2sl55HJPdumQ" name="review_of_requirements" guid="_AARBUNCqEe2sl55HJPdumQ" presentationName="Review of Requirements" performedBy="_A0_LMNCcEe2sl55HJPdumQ _V89XkNCpEe2sl55HJPdumQ _bbXXcNCdEe2sl55HJPdumQ _YxQzkNCbEe2sl55HJPdumQ" mandatoryInput="_BP7FkNFeEe2T9Kw2TWBJNg" output="_aIl6MNFcEe2T9Kw2TWBJNg _YoSLANDNEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_SZY4QNCrEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-MTQ8QsPX_D3SaRSL94SMUw" href="uma://-MTQ8QsPX_D3SaRSL94SMUw#-MTQ8QsPX_D3SaRSL94SMUw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gbp5INCrEe2sl55HJPdumQ" name="read_code_and_documentation" guid="_gbp5INCrEe2sl55HJPdumQ" presentationName="Read Code and Documentation" performedBy="_YxQzkNCbEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ" output="_JlPM8NCpEe2sl55HJPdumQ" additionallyPerformedBy="_V89XkNCpEe2sl55HJPdumQ _bbXXcNCdEe2sl55HJPdumQ _A0_LMNCcEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_kZUBgNCrEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uzb24wKgiBikkNBpNzcQlw" href="uma://-uzb24wKgiBikkNBpNzcQlw#-uzb24wKgiBikkNBpNzcQlw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lHpuMNCrEe2sl55HJPdumQ" name="write_tests" guid="_lHpuMNCrEe2sl55HJPdumQ" presentationName="Write Tests" performedBy="_V89XkNCpEe2sl55HJPdumQ" mandatoryInput="_T8UoYNFgEe2T9Kw2TWBJNg" output="_t5cl4NCpEe2sl55HJPdumQ" additionallyPerformedBy="_A0_LMNCcEe2sl55HJPdumQ _WpNXYNCaEe2sl55HJPdumQ" optionalInput="_PX3-INCiEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_pr2SINCrEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-wW6Nd4vgi1ZvVwbXNxJBFQ" href="uma://-wW6Nd4vgi1ZvVwbXNxJBFQ#-wW6Nd4vgi1ZvVwbXNxJBFQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1i7N0NCrEe2sl55HJPdumQ" name="check_test_results" guid="_1i7N0NCrEe2sl55HJPdumQ" presentationName="Check Test Results" performedBy="_V89XkNCpEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ" output="_1pIOYNCpEe2sl55HJPdumQ _w_6dANCoEe2sl55HJPdumQ _H5st0NDNEe2sl55HJPdumQ" additionallyPerformedBy="_A0_LMNCcEe2sl55HJPdumQ _bbXXcNCdEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_2_KiUNCrEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nc5-vjSgk7sPPR-AlcXriQ" href="uma://-nc5-vjSgk7sPPR-AlcXriQ#-nc5-vjSgk7sPPR-AlcXriQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3ZUHsNCrEe2sl55HJPdumQ" name="write_report_on_code_review" guid="_3ZUHsNCrEe2sl55HJPdumQ" presentationName="Write Report on Code Review" mandatoryInput="_peWwENCoEe2sl55HJPdumQ" output="_Y0JrUNCiEe2sl55HJPdumQ" optionalInput="_AHPQMNCjEe2sl55HJPdumQ _JlPM8NCpEe2sl55HJPdumQ _oC6DgNFdEe2T9Kw2TWBJNg _BP7FkNFeEe2T9Kw2TWBJNg">
+            <methodElementProperty xmi:id="_38klwNCrEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-UkWMCHCo5a1WlKLqcVoA7Q" href="uma://-UkWMCHCo5a1WlKLqcVoA7Q#-UkWMCHCo5a1WlKLqcVoA7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KSiQcNCsEe2sl55HJPdumQ" name="develop_code" guid="_KSiQcNCsEe2sl55HJPdumQ" presentationName="Develop Code" performedBy="_WpNXYNCaEe2sl55HJPdumQ" mandatoryInput="_aIl6MNFcEe2T9Kw2TWBJNg" output="_PX3-INCiEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ _0dgbsNCcEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_LNTPkNCsEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uWIYyByq1XBzP7Yxml23uA" href="uma://-uWIYyByq1XBzP7Yxml23uA#-uWIYyByq1XBzP7Yxml23uA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NTPBUNCsEe2sl55HJPdumQ" name="set_code_for_review" guid="_NTPBUNCsEe2sl55HJPdumQ" presentationName="Set Code for Review" performedBy="_WpNXYNCaEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ" output="_TxsPgNDNEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_PAlT8NCsEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CkSJ3elHHUAszY5bFvtJiw" href="uma://-CkSJ3elHHUAszY5bFvtJiw#-CkSJ3elHHUAszY5bFvtJiw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_P0CxMNCsEe2sl55HJPdumQ" name="update_code" guid="_P0CxMNCsEe2sl55HJPdumQ" presentationName="Update Code" performedBy="_WpNXYNCaEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ _peWwENCoEe2sl55HJPdumQ" output="_S5ZkINCiEe2sl55HJPdumQ" additionallyPerformedBy="_0dgbsNCcEe2sl55HJPdumQ _bbXXcNCdEe2sl55HJPdumQ" optionalInput="_w_6dANCoEe2sl55HJPdumQ _1pIOYNCpEe2sl55HJPdumQ _t5cl4NCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_RgDAANCsEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qDgo-xeM-SF8tnmNoQg3pA" href="uma://-qDgo-xeM-SF8tnmNoQg3pA#-qDgo-xeM-SF8tnmNoQg3pA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EjjpgNCuEe2sl55HJPdumQ" name="rewiew_of_code" guid="_EjjpgNCuEe2sl55HJPdumQ" presentationName="Rewiew of code" performedBy="_YxQzkNCbEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ _oC6DgNFdEe2T9Kw2TWBJNg" output="_peWwENCoEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ _A0_LMNCcEe2sl55HJPdumQ _0dgbsNCcEe2sl55HJPdumQ" optionalInput="_AHPQMNCjEe2sl55HJPdumQ _JlPM8NCpEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_FpU-wNCuEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Kr9isJg_DMgRS2Qh34cM_A" href="uma://-Kr9isJg_DMgRS2Qh34cM_A#-Kr9isJg_DMgRS2Qh34cM_A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BSRgINDIEe2sl55HJPdumQ" name="plan_review_process" guid="_BSRgINDIEe2sl55HJPdumQ" presentationName="Plan Review Process" performedBy="_bbXXcNCdEe2sl55HJPdumQ" mandatoryInput="_oC6DgNFdEe2T9Kw2TWBJNg" output="_AHPQMNCjEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ _AI-t4NCpEe2sl55HJPdumQ" additionallyPerformedBy="_0dgbsNCcEe2sl55HJPdumQ _YxQzkNCbEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_ELWmENDIEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-TGARh2Mtab56lRcJzGG7ZA" href="uma://-TGARh2Mtab56lRcJzGG7ZA#-TGARh2Mtab56lRcJzGG7ZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xjevMNDLEe2sl55HJPdumQ" name="run_code_analysis" guid="_xjevMNDLEe2sl55HJPdumQ" presentationName="Run Code Analysis" performedBy="_A0_LMNCcEe2sl55HJPdumQ" mandatoryInput="_PX3-INCiEe2sl55HJPdumQ _p1uPgNFeEe2T9Kw2TWBJNg" output="_w_6dANCoEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ _V89XkNCpEe2sl55HJPdumQ" optionalInput="_1pIOYNCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_yXjQcNDLEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-UCTimcPccForsfzlLWpxng" href="uma://-UCTimcPccForsfzlLWpxng#-UCTimcPccForsfzlLWpxng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_56kV8NDLEe2sl55HJPdumQ" name="assist_developer_in_addressing_issues" guid="_56kV8NDLEe2sl55HJPdumQ" presentationName="Assist Developer in addressing issues" performedBy="_A0_LMNCcEe2sl55HJPdumQ _YxQzkNCbEe2sl55HJPdumQ _V89XkNCpEe2sl55HJPdumQ" mandatoryInput="_peWwENCoEe2sl55HJPdumQ" output="_S5ZkINCiEe2sl55HJPdumQ _TxsPgNDNEe2sl55HJPdumQ _H5st0NDNEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ" optionalInput="_w_6dANCoEe2sl55HJPdumQ _1pIOYNCpEe2sl55HJPdumQ _t5cl4NCpEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_-IvmkNDLEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fH1Zx-KqXHd6shxiIO3IhA" href="uma://-fH1Zx-KqXHd6shxiIO3IhA#-fH1Zx-KqXHd6shxiIO3IhA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MrVtUNDMEe2sl55HJPdumQ" name="track_progress_of_code_review" guid="_MrVtUNDMEe2sl55HJPdumQ" presentationName="Track Progress of Code Review" performedBy="_0dgbsNCcEe2sl55HJPdumQ" mandatoryInput="_JlPM8NCpEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ" output="_GblUYNCpEe2sl55HJPdumQ _AI-t4NCpEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ" optionalInput="_w_6dANCoEe2sl55HJPdumQ _oC6DgNFdEe2T9Kw2TWBJNg _AHPQMNCjEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_Qe4QYNDMEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-EGPC36MMMx6q7mYAa2TR6A" href="uma://-EGPC36MMMx6q7mYAa2TR6A#-EGPC36MMMx6q7mYAa2TR6A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XlBMoNDMEe2sl55HJPdumQ" name="monitor_effectivness_of_code_review" guid="_XlBMoNDMEe2sl55HJPdumQ" presentationName="Monitor Effectivness of Code Review" performedBy="_0dgbsNCcEe2sl55HJPdumQ" mandatoryInput="_AHPQMNCjEe2sl55HJPdumQ _JlPM8NCpEe2sl55HJPdumQ _8Qk48NCoEe2sl55HJPdumQ _Y0JrUNCiEe2sl55HJPdumQ" output="_H5st0NDNEe2sl55HJPdumQ _TxsPgNDNEe2sl55HJPdumQ _GblUYNCpEe2sl55HJPdumQ" additionallyPerformedBy="_bbXXcNCdEe2sl55HJPdumQ" optionalInput="_peWwENCoEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_aE8ywNDMEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-qgeO00zvNH_7jywAs13lJw" href="uma://-qgeO00zvNH_7jywAs13lJw#-qgeO00zvNH_7jywAs13lJw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_H5st0NDNEe2sl55HJPdumQ" name="improved_code_quality" guid="_H5st0NDNEe2sl55HJPdumQ" presentationName="Improved Code Quality" isAbstract="true">
+            <methodElementProperty xmi:id="_S5GaoNDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-abaxkeVSO9Vk5Z2Q-5pQDw" href="uma://-abaxkeVSO9Vk5Z2Q-5pQDw#-abaxkeVSO9Vk5Z2Q-5pQDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_TxsPgNDNEe2sl55HJPdumQ" name="increased_team_collaboration" guid="_TxsPgNDNEe2sl55HJPdumQ" presentationName="Increased Team Collaboration" isAbstract="true">
+            <methodElementProperty xmi:id="_Xz0BINDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9eQnCVc_rRc4Hez9DzpmcA" href="uma://-9eQnCVc_rRc4Hez9DzpmcA#-9eQnCVc_rRc4Hez9DzpmcA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_YoSLANDNEe2sl55HJPdumQ" name="following_coding_standards" guid="_YoSLANDNEe2sl55HJPdumQ" presentationName="Following Coding Standards" isAbstract="true">
+            <methodElementProperty xmi:id="_bFiQkNDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Fe_KoYGdDm9Kv7C0hEzF9A" href="uma://-Fe_KoYGdDm9Kv7C0hEzF9A#-Fe_KoYGdDm9Kv7C0hEzF9A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_oOcAgNDNEe2sl55HJPdumQ" name="reviewer_guideline" guid="_oOcAgNDNEe2sl55HJPdumQ" presentationName="Reviewer guidelines">
+            <methodElementProperty xmi:id="_qLs-cNDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tZIJAH_lnH_YxvxHE7Z0EA" href="uma://-tZIJAH_lnH_YxvxHE7Z0EA#-tZIJAH_lnH_YxvxHE7Z0EA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_rNAqcNDNEe2sl55HJPdumQ" name="developer_guideline" guid="_rNAqcNDNEe2sl55HJPdumQ" presentationName="Developer guidline">
+            <methodElementProperty xmi:id="_s2yrsNDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-NYh6L4RPkPpn9zE9YUMvtg" href="uma://-NYh6L4RPkPpn9zE9YUMvtg#-NYh6L4RPkPpn9zE9YUMvtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_uVuH0NDNEe2sl55HJPdumQ" name="code_review_best_practices" guid="_uVuH0NDNEe2sl55HJPdumQ" presentationName="Code review best practices" briefDescription="A document that contains the responsibilities and expectations for reviewers." contentReferences="_oOcAgNDNEe2sl55HJPdumQ _oC6DgNFdEe2T9Kw2TWBJNg _JlPM8NCpEe2sl55HJPdumQ _gbp5INCrEe2sl55HJPdumQ _EjjpgNCuEe2sl55HJPdumQ _Y0JrUNCiEe2sl55HJPdumQ _w_6dANCoEe2sl55HJPdumQ _T8UoYNFgEe2T9Kw2TWBJNg _1pIOYNCpEe2sl55HJPdumQ _XlBMoNDMEe2sl55HJPdumQ _AARBUNCqEe2sl55HJPdumQ _MrVtUNDMEe2sl55HJPdumQ _3ZUHsNCrEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_uWKMsNDNEe2sl55HJPdumQ" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_v-AUQNDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Bvx9r4hTxlH0lK_G56Qytg" href="uma://-Bvx9r4hTxlH0lK_G56Qytg#-Bvx9r4hTxlH0lK_G56Qytg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_wvcYQNDNEe2sl55HJPdumQ" name="writing_better_code_best_practice" guid="_wvcYQNDNEe2sl55HJPdumQ" presentationName="Writing better code best practice" briefDescription="Shows examples how to make code ready for code review and how to implement features mentioned in feedback effectively." contentReferences="_rNAqcNDNEe2sl55HJPdumQ _aIl6MNFcEe2T9Kw2TWBJNg _YoSLANDNEe2sl55HJPdumQ _KSiQcNCsEe2sl55HJPdumQ _H5st0NDNEe2sl55HJPdumQ _PX3-INCiEe2sl55HJPdumQ _S5ZkINCiEe2sl55HJPdumQ _BP7FkNFeEe2T9Kw2TWBJNg _NTPBUNCsEe2sl55HJPdumQ">
+            <methodElementProperty xmi:id="_wvvTMNDNEe2sl55HJPdumQ" name="PUBLISH_CATEGORY" value="true"/>
+            <methodElementProperty xmi:id="_0OTr0NDNEe2sl55HJPdumQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gpJOPi4gLvTix-YhTorWWw" href="uma://-gpJOPi4gLvTix-YhTorWWw#-gpJOPi4gLvTix-YhTorWWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_aIl6MNFcEe2T9Kw2TWBJNg" name="specification_for_developer" guid="_aIl6MNFcEe2T9Kw2TWBJNg" presentationName="Specification for Developer" isAbstract="true">
+            <methodElementProperty xmi:id="_gISLwNFcEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-AfWirS78NPYI56CFW-LdKQ" href="uma://-AfWirS78NPYI56CFW-LdKQ#-AfWirS78NPYI56CFW-LdKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_oC6DgNFdEe2T9Kw2TWBJNg" name="specification_for_reviews" guid="_oC6DgNFdEe2T9Kw2TWBJNg" presentationName="Specification for reviews">
+            <methodElementProperty xmi:id="_pfvN4NFdEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-izmFyV5PM39dYgDj8Kua0g" href="uma://-izmFyV5PM39dYgDj8Kua0g#-izmFyV5PM39dYgDj8Kua0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_BP7FkNFeEe2T9Kw2TWBJNg" name="specification_requirements" guid="_BP7FkNFeEe2T9Kw2TWBJNg" presentationName="Specification Requirements">
+            <methodElementProperty xmi:id="_DF5vwNFeEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9maFrOUOTIJFjiCV0oRrmg" href="uma://-9maFrOUOTIJFjiCV0oRrmg#-9maFrOUOTIJFjiCV0oRrmg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_p1uPgNFeEe2T9Kw2TWBJNg" name="specification_for_analysts" guid="_p1uPgNFeEe2T9Kw2TWBJNg" presentationName="Specification for analysts">
+            <methodElementProperty xmi:id="_sAFOQNFeEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-VPVvKviKe6jJtISCvluV8Q" href="uma://-VPVvKviKe6jJtISCvluV8Q#-VPVvKviKe6jJtISCvluV8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_T8UoYNFgEe2T9Kw2TWBJNg" name="specification_for_tests" guid="_T8UoYNFgEe2T9Kw2TWBJNg" presentationName="Specification for tests">
+            <methodElementProperty xmi:id="_VW7lMNFgEe2T9Kw2TWBJNg" name="me_edited" value="true"/>
+            <presentation xmi:id="-cgSrEErbd8BwM4LV_E_mcQ" href="uma://-cgSrEErbd8BwM4LV_E_mcQ#-cgSrEErbd8BwM4LV_E_mcQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_d6NVTdCZEe2sl55HJPdumQ" name="CapabilityPatterns" guid="_d6NVTdCZEe2sl55HJPdumQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_M8QncNI7Ee2T9Kw2TWBJNg" href="uma://_M8QncNI7Ee2T9Kw2TWBJNg#_M8QncNI7Ee2T9Kw2TWBJNg"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_d6NVTtCZEe2sl55HJPdumQ" name="DeliveryProcesses" guid="_d6NVTtCZEe2sl55HJPdumQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Vj7_ENFjEe2T9Kw2TWBJNg" href="uma://_Vj7_ENFjEe2T9Kw2TWBJNg#_Vj7_ENFjEe2T9Kw2TWBJNg"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_qP6CYNFkEe2T9Kw2TWBJNg" href="uma://_qP6CYNFkEe2T9Kw2TWBJNg#_qP6CYNFkEe2T9Kw2TWBJNg"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Souq0NFmEe2T9Kw2TWBJNg" href="uma://_Souq0NFmEe2T9Kw2TWBJNg#_Souq0NFmEe2T9Kw2TWBJNg"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_09CBgNFmEe2T9Kw2TWBJNg" href="uma://_09CBgNFmEe2T9Kw2TWBJNg#_09CBgNFmEe2T9Kw2TWBJNg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_d6NVT9CZEe2sl55HJPdumQ" name="ProcessContributions" guid="_d6NVT9CZEe2sl55HJPdumQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

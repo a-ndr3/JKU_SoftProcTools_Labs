@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bvx9r4hTxlH0lK_G56Qytg" name="new_practice,_uVuH0NDNEe2sl55HJPdumQ" guid="-Bvx9r4hTxlH0lK_G56Qytg" changeDate="2023-04-01T22:45:47.257+0200">
+  <mainDescription>May show some examples of effective strategies how to do better code reviews and&amp;nbsp;how to&amp;nbsp;provide constructive&#xD;
+feedback. As well as focusing on the most important issues and critical areas of code.</mainDescription>
+  <problem>To help reviewers to do better job by providing them with support.</problem>
+  <goals>Make it easier for code reviewers to remember important parts of this area.</goals>
+</org.eclipse.epf.uma:PracticeDescription>

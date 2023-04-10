@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NYh6L4RPkPpn9zE9YUMvtg" name="new_guideline,_rNAqcNDNEe2sl55HJPdumQ" guid="-NYh6L4RPkPpn9zE9YUMvtg">
+  <mainDescription>Brief desciption(cant save in the field): helps developers to get ready for code review.&lt;br />&#xD;
+&lt;br />&#xD;
+A document may contain the responsibilities and expectations for developers during the code review process, such as&#xD;
+preparing the code for review, responding to feedback, and making necessary changes.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

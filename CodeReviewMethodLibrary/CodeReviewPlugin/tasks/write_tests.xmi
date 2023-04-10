@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wW6Nd4vgi1ZvVwbXNxJBFQ" name=",_lHpuMNCrEe2sl55HJPdumQ" guid="-wW6Nd4vgi1ZvVwbXNxJBFQ">
+  <sections xmi:id="_F1I7ANFPEe2T9Kw2TWBJNg" name="Fully understand the requirements/standards/specifications for the code to be tested" guid="_F1I7ANFPEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_J-_sUNFPEe2T9Kw2TWBJNg" name="Design and implement tests that covers various scenarios, edge cases, potential issues etc." guid="_J-_sUNFPEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_Sk3V8NFPEe2T9Kw2TWBJNg" name="Ensure that tests are repeatable and can be executed on different stages of software development process" guid="_Sk3V8NFPEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_Ng1bYNFPEe2T9Kw2TWBJNg" name="Document the results, highlighting expected results and wrong outcomes" guid="_Ng1bYNFPEe2T9Kw2TWBJNg"/>
+  <purpose>To check if code meets basic requirements and work stable in general cases.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

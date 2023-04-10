@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_WP8DIdCXEe2sl55HJPdumQ" guid="_WP8DIdCXEe2sl55HJPdumQ">
+    <subManagers xmi:id="_d6gQMNCZEe2sl55HJPdumQ" href="uma://_d6NVQNCZEe2sl55HJPdumQ#_d6gQMNCZEe2sl55HJPdumQ"/>
+    <resourceDescriptors xmi:id="_WP8DItCXEe2sl55HJPdumQ" id="_WP8DINCXEe2sl55HJPdumQ" uri=""/>
+    <resourceDescriptors xmi:id="_d6gQMdCZEe2sl55HJPdumQ" id="_d6NVQNCZEe2sl55HJPdumQ" uri="CodeReviewPlugin/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_WP8DINCXEe2sl55HJPdumQ" name="CodeReviewMethodLibrary" guid="_WP8DINCXEe2sl55HJPdumQ" briefDescription="Method library for Code Review subject">
+    <methodElementProperty xmi:id="_WR380NCXEe2sl55HJPdumQ" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_d6NVQNCZEe2sl55HJPdumQ" href="uma://_d6NVQNCZEe2sl55HJPdumQ#_d6NVQNCZEe2sl55HJPdumQ"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

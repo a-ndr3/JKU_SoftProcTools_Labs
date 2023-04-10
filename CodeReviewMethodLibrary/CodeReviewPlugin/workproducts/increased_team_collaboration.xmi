@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9eQnCVc_rRc4Hez9DzpmcA" name="increased_team_collaboration,_TxsPgNDNEe2sl55HJPdumQ" guid="-9eQnCVc_rRc4Hez9DzpmcA">
+  <mainDescription>Brief description: Better teamwork and cooperation in future projects&lt;br />&#xD;
+&lt;br />&#xD;
+The code review process makes collaboration among team members better, promoting knowledge sharing and collective ownership&#xD;
+of the codebase</mainDescription>
+</org.eclipse.epf.uma:WorkProductDescription>

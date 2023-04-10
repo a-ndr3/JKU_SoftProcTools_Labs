@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-52CxdrLCI4AUD2Bk1-berw" name="Review,_qP6CYdFkEe2T9Kw2TWBJNg" guid="-52CxdrLCI4AUD2Bk1-berw">
+    <mainDescription>Code review is important part of any kind&amp;nbsp;of&amp;nbsp;successful piece&amp;nbsp;of software. It helps to achieve better code&#xD;
+quality, develop special tools and requirements to make software development process easier in future projects</mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-a8PrfnLoiBNyFOuCxnUwEg" name="rewiew_of_code,_ziaIg9FkEe2T9Kw2TWBJNg" guid="-a8PrfnLoiBNyFOuCxnUwEg">
+    <refinedDescription>&lt;p>&#xD;
+    May contain various things such as: detailed feedback on the code, potential issues/bugs/improvements.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gP56XrQ9jm8W-c81DVsvcA" name="tester,_ziaIhdFkEe2T9Kw2TWBJNg" guid="-gP56XrQ9jm8W-c81DVsvcA">
+    <refinedDescription>Tests code in order to help developer and reviewer to spot bugs and incorrect following of project's&amp;nbsp;requirements.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dFDaFP8wlzkfpP8tpp2ToA" name="quality_analyst,_ziaIh9FkEe2T9Kw2TWBJNg" guid="-dFDaFP8wlzkfpP8tpp2ToA">
+    <refinedDescription>A personel responsible for analyzing and measuring the quality of code. Checks if code satisfy standards that required by&#xD;
+project, company or team's quality standards.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-p3XI061boMtveqcHeF_4Ng" name="senior_reviewer,_ziaIidFkEe2T9Kw2TWBJNg" guid="-p3XI061boMtveqcHeF_4Ng">
+    <refinedDescription>A personel responsible for organization and coordination&amp;nbsp;of effective code review process. Oversees the process of&#xD;
+code reviewing by resolving inner conflicts, sets review requirements for project's needs and checks quality of reviews as&#xD;
+well as if&amp;nbsp;rewiews follow&amp;nbsp;standards that required by project or company.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0LjKhV5h1PfhaaLc1UShTQ" name="reviewer,_ziaIi9FkEe2T9Kw2TWBJNg" guid="-0LjKhV5h1PfhaaLc1UShTQ">
+    <refinedDescription>A personel responsible for reviewing code and check it for correctness, maintaiability, readability and other standards&#xD;
+that required by project or company. Provides feedback and issues to be fixed as well as improvements needed in the code.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-St2m9xng-muajsiOrLy-VA" name="project_manager,_ziaIjdFkEe2T9Kw2TWBJNg" guid="-St2m9xng-muajsiOrLy-VA">
+    <refinedDescription>A personel responsible for overseeing the development process&amp;nbsp;one part of which is&amp;nbsp;code review. Tracks progress&#xD;
+of code evolving, code review timelines, project timelines and coordinates all teams that involved in the development&#xD;
+process.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IMFd8IuLl0acggqO3yl5Yg" name="source_code,_ziaIj9FkEe2T9Kw2TWBJNg" guid="-IMFd8IuLl0acggqO3yl5Yg">
+    <refinedDescription>&lt;p>&#xD;
+    Initial piece of software development process.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-RWP5fsvY8vFh0SVkOnpAJw" name="improved_code_quality,_ziaIldFkEe2T9Kw2TWBJNg" guid="-RWP5fsvY8vFh0SVkOnpAJw">
+    <refinedDescription>Brief description: Makes it easier to reuse the code and make guidelines out of it&lt;br />&#xD;
+&lt;br />&#xD;
+The code review process leads to higher code quality by identifying and addressing issues, potential bugs and areas for&#xD;
+improvement.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wi1Kc5Z6vaMILL6E7VHU8w" name="specification_requirements,_ziaImdFkEe2T9Kw2TWBJNg" guid="-wi1Kc5Z6vaMILL6E7VHU8w">
+    <refinedDescription>Base field</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-_U1Z0s1e1fOGdZBBFcUkSQ" name="specification_for_developer,_ziaIm9FkEe2T9Kw2TWBJNg" guid="-_U1Z0s1e1fOGdZBBFcUkSQ">
+    <refinedDescription>All requirements needed to proceed with code development&lt;br />&#xD;
+Base field</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6jsHc8vT2ZiKs5RxSq6z4Q" name="following_coding_standards,_ziaIndFkEe2T9Kw2TWBJNg" guid="-6jsHc8vT2ZiKs5RxSq6z4Q">
+    <refinedDescription>Brief description: Makes it easier to reuse code in the future.&lt;br />&#xD;
+&lt;br />&#xD;
+The code review process ensures that the code follows coding standards, project guidelines and requirements, resulting in a&#xD;
+consistent and maintainable codebase.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OQ5dfn12zSJk2nSszuMXig" name="specification_for_reviews,_ziaIn9FkEe2T9Kw2TWBJNg" guid="-OQ5dfn12zSJk2nSszuMXig">
+    <refinedDescription>Base field</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NC4i2Z1MgFQ5WA64smgQ8A" name="specification_for_analysts,_ziaIp9FkEe2T9Kw2TWBJNg" guid="-NC4i2Z1MgFQ5WA64smgQ8A">
+    <refinedDescription>Base field</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gpJOPi4gLvTix-YhTorWWw" name="new_practice,_wvcYQNDNEe2sl55HJPdumQ" guid="-gpJOPi4gLvTix-YhTorWWw" changeDate="2023-04-01T22:48:47.449+0200">
+  <problem>&lt;p>&#xD;
+    To make it easier for developers to follow guidelines and requirements of a project through examples.&#xD;
+&lt;/p></problem>
+  <goals>Help developers to write code of better quality through examples of best practices.</goals>
+</org.eclipse.epf.uma:PracticeDescription>

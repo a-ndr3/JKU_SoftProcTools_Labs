@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qDgo-xeM-SF8tnmNoQg3pA" name=",_P0CxMNCsEe2sl55HJPdumQ" guid="-qDgo-xeM-SF8tnmNoQg3pA">
+  <mainDescription>Update is based on the feedback of reviewer, tester, quality analyst or project manager and to make code clean, stable,&#xD;
+etc.</mainDescription>
+  <sections xmi:id="_vDoukNFNEe2T9Kw2TWBJNg" name="Address reviewer feedback by making necessary changes to the code/architecture" guid="_vDoukNFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_zNpQ4NFNEe2T9Kw2TWBJNg" name="Respond to reviewer comments and questions to clarify any issues or not obvious parts of code that may help them to make better review" guid="_zNpQ4NFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_8BynENFNEe2T9Kw2TWBJNg" name="*Test the updated code to ensure it still meets functional requirements and is free of bugs" guid="_8BynENFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="__RVFMNFNEe2T9Kw2TWBJNg" name="Document any changes made to the code and the reasons why they have been made" guid="__RVFMNFNEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_Cdv94NFOEe2T9Kw2TWBJNg" name="*Submit the code for review again if needed" guid="_Cdv94NFOEe2T9Kw2TWBJNg"/>
+  <purpose>Address a feedback by making necessary changes</purpose>
+</org.eclipse.epf.uma:TaskDescription>

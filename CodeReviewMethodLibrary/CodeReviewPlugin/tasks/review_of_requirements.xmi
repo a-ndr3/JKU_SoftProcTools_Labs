@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MTQ8QsPX_D3SaRSL94SMUw" name=",_AARBUNCqEe2sl55HJPdumQ" guid="-MTQ8QsPX_D3SaRSL94SMUw">
+  <sections xmi:id="_GTfnwNFLEe2T9Kw2TWBJNg" name="Review the project requirements and specifications" guid="_GTfnwNFLEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_I-4P8NFLEe2T9Kw2TWBJNg" name="Check if code meets the required standards" guid="_I-4P8NFLEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_NSG_sNFLEe2T9Kw2TWBJNg" name="Check if code has any gaps in the requirements/standards etc. " guid="_NSG_sNFLEe2T9Kw2TWBJNg"/>
+  <sections xmi:id="_brT54NFLEe2T9Kw2TWBJNg" name="If any found, provide developer with full information how to find these issues and possible improvements based on requirements" guid="_brT54NFLEe2T9Kw2TWBJNg"/>
+  <purpose>To see what requirements to follow for writing code or a&amp;nbsp;review.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
