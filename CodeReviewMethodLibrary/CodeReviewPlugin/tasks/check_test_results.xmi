@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nc5-vjSgk7sPPR-AlcXriQ" name=",_1i7N0NCrEe2sl55HJPdumQ" guid="-nc5-vjSgk7sPPR-AlcXriQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nc5-vjSgk7sPPR-AlcXriQ" name=",_1i7N0NCrEe2sl55HJPdumQ" guid="-nc5-vjSgk7sPPR-AlcXriQ" changeDate="2023-04-15T20:33:34.984+0200">
+  <mainDescription>The task of checking test results involves verifying the results of automated tests and identifying any issues or bugs.&#xD;
+This task requires the reviewer to carefully analyze the test results and compare them with the expected results to&#xD;
+identify any discrepancies. The reviewer must communicate any issues or bugs found to the development team and suggest&#xD;
+appropriate modifications to the code. Checking test results is critical in ensuring that the code performs as expected and&#xD;
+meets the necessary standards.</mainDescription>
   <sections xmi:id="_tkN8gNFIEe2T9Kw2TWBJNg" name="Check test results for code under review" guid="_tkN8gNFIEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_yrq-gNFIEe2T9Kw2TWBJNg" name="Review test results and check if any failed or any issue or bug has been found" guid="_yrq-gNFIEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_4XHeYNFIEe2T9Kw2TWBJNg" name="Analyze the cause of issued found in previous step" guid="_4XHeYNFIEe2T9Kw2TWBJNg"/>

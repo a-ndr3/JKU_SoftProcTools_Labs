@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-egCeEtChxfBq-GyKLqcJIQ" name="new_role,_V89XkNCpEe2sl55HJPdumQ" guid="-egCeEtChxfBq-GyKLqcJIQ" changeDate="2023-04-01T18:23:40.248+0200">
-  <mainDescription>Tests code in order to help developer and reviewer to spot bugs and incorrect following of project's&amp;nbsp;requirements.</mainDescription>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-egCeEtChxfBq-GyKLqcJIQ" name="new_role,_V89XkNCpEe2sl55HJPdumQ" guid="-egCeEtChxfBq-GyKLqcJIQ" changeDate="2023-04-15T12:31:08.231+0200">
+  <mainDescription>A testers play a critical role in ensuring that software code meets established quality standards. By reviewing code for&#xD;
+bugs, security vulnerabilities, and other issues, testers help ensure that software products are stable, secure, and&#xD;
+functional. Testers may also provide feedback on code readability, maintainability, and performance, helping developers&#xD;
+improve the overall quality of the software they produce. The tester's goal is to help ensure that software products are&#xD;
+delivered to customers with a high level of quality and reliability.&lt;br /></mainDescription>
   <skills>Code Testing, Code&amp;nbsp;Analysis, Analytical skills, Communication skills, Attention to details</skills>
 </org.eclipse.epf.uma:RoleDescription>

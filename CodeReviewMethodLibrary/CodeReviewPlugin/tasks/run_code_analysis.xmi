@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UCTimcPccForsfzlLWpxng" name=",_xjevMNDLEe2sl55HJPdumQ" guid="-UCTimcPccForsfzlLWpxng">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UCTimcPccForsfzlLWpxng" name=",_xjevMNDLEe2sl55HJPdumQ" guid="-UCTimcPccForsfzlLWpxng" changeDate="2023-04-15T12:50:23.156+0200">
+  <mainDescription>Running code analysis is a critical task in the code review process, as it can help identify potential issues that may not&#xD;
+be caught through manual review alone. This may involve using static analysis tools, dynamic analysis tools, or a&#xD;
+combination of both to identify coding errors, security vulnerabilities, performance issues, and other defects. By running&#xD;
+code analysis, development teams can ensure that software products are of high quality, meet user needs, and deliver value&#xD;
+to the organization.</mainDescription>
   <sections xmi:id="_j7_hMNFMEe2T9Kw2TWBJNg" name="Run analysis tools, code coverage tools and other tools that help to measure quality of the submitted code" guid="_j7_hMNFMEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_rFxnUNFMEe2T9Kw2TWBJNg" name="Review the results to identify if any areas has potential issues or space for  improvement" guid="_rFxnUNFMEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_zClF0NFMEe2T9Kw2TWBJNg" name="Document or inform developers/reviwers about found results" guid="_zClF0NFMEe2T9Kw2TWBJNg"/>

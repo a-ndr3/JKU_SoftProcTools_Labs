@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wW6Nd4vgi1ZvVwbXNxJBFQ" name=",_lHpuMNCrEe2sl55HJPdumQ" guid="-wW6Nd4vgi1ZvVwbXNxJBFQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wW6Nd4vgi1ZvVwbXNxJBFQ" name=",_lHpuMNCrEe2sl55HJPdumQ" guid="-wW6Nd4vgi1ZvVwbXNxJBFQ" changeDate="2023-04-15T16:34:52.241+0200">
+  <mainDescription>The task of writing tests is a critical aspect of the code review process, which involves creating automated tests to&#xD;
+ensure that the code performs as expected and meets the necessary standards. The tests should cover different scenarios and&#xD;
+edge cases to identify any potential issues or bugs. The tests should be reviewed by other team members to ensure that they&#xD;
+are comprehensively and accurately testing the code's functionality. Writing tests is essential in ensuring that the code&#xD;
+is efficient, effective, and free of errors or bugs.</mainDescription>
   <sections xmi:id="_F1I7ANFPEe2T9Kw2TWBJNg" name="Fully understand the requirements/standards/specifications for the code to be tested" guid="_F1I7ANFPEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_J-_sUNFPEe2T9Kw2TWBJNg" name="Design and implement tests that covers various scenarios, edge cases, potential issues etc." guid="_J-_sUNFPEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_Sk3V8NFPEe2T9Kw2TWBJNg" name="Ensure that tests are repeatable and can be executed on different stages of software development process" guid="_Sk3V8NFPEe2T9Kw2TWBJNg"/>

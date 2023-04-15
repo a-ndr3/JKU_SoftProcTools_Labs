@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YGjLlH97oMaRRHxwOSPydg" name="review,_peWwENCoEe2sl55HJPdumQ" guid="-YGjLlH97oMaRRHxwOSPydg" changeDate="2023-04-15T19:18:09.134+0200">
+  <mainDescription>In the context of code review, a review is the process of examining code and its accompanying documentation to identify&#xD;
+potential issues, such as bugs, security vulnerabilities, and violations of coding standards. The output of a review is&#xD;
+typically a review report that includes recommendations for improvement and a plan of action to address identified issues.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

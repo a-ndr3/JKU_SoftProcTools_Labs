@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qgeO00zvNH_7jywAs13lJw" name=",_XlBMoNDMEe2sl55HJPdumQ" guid="-qgeO00zvNH_7jywAs13lJw">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qgeO00zvNH_7jywAs13lJw" name=",_XlBMoNDMEe2sl55HJPdumQ" guid="-qgeO00zvNH_7jywAs13lJw" changeDate="2023-04-15T12:34:31.089+0200">
+  <mainDescription>To ensure that code review is an effective, it is necessary to monitor its effectiveness over time. This may involve&#xD;
+measuring key performance indicators, such as defect density or time-to-fix, analyzing feedback from developers and&#xD;
+testers, and identifying opportunities to streamline and improve the review process. By continuously monitoring the&#xD;
+effectiveness of code review and making adjustments as needed, development teams can ensure that software products are of&#xD;
+the highest quality and deliver value to users and stakeholders.</mainDescription>
   <sections xmi:id="_9vk7YNFJEe2T9Kw2TWBJNg" name="Track the progress and outcomes of the code review process" guid="_9vk7YNFJEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_CElz0NFKEe2T9Kw2TWBJNg" name="Measure the impact of code review on the code quality, teamwork" guid="_CElz0NFKEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_NswJwNFKEe2T9Kw2TWBJNg" name="Find if any areas of code review process need improvement" guid="_NswJwNFKEe2T9Kw2TWBJNg"/>

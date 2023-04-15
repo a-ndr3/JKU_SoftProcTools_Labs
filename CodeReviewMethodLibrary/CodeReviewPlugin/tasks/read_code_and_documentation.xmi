@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uzb24wKgiBikkNBpNzcQlw" name=",_gbp5INCrEe2sl55HJPdumQ" guid="-uzb24wKgiBikkNBpNzcQlw">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uzb24wKgiBikkNBpNzcQlw" name=",_gbp5INCrEe2sl55HJPdumQ" guid="-uzb24wKgiBikkNBpNzcQlw" changeDate="2023-04-15T12:41:19.626+0200">
+  <mainDescription>Reading code and documentation is an essential task in the code review process, as it provides reviewers with critical&#xD;
+insights into how software code is designed and implemented. By carefully examining code and documentation, reviewers can&#xD;
+identify potential issues, provide feedback on code clarity and maintainability, and ensure that code is properly&#xD;
+integrated with other components of the software system. The goal of reading code and documentation is to ensure that&#xD;
+software products are of high quality, meet user needs, and deliver value to the organization.</mainDescription>
   <sections xmi:id="_qD928NFKEe2T9Kw2TWBJNg" name="Carefully review submitted code, checking if it meets requirements, specifications and other standards that required by a project" guid="_qD928NFKEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_0wec8NFKEe2T9Kw2TWBJNg" name="*Check provided documentation if needed" guid="_0wec8NFKEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_7V8VENFKEe2T9Kw2TWBJNg" name="Create list of what should be changed, could be improved and make suggestions on it, escpecially why it should be done" guid="_7V8VENFKEe2T9Kw2TWBJNg"/>

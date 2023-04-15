@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qlxtn1_QYFDVSy1it8jCjw" name="new_role,_WpNXYNCaEe2sl55HJPdumQ" guid="-Qlxtn1_QYFDVSy1it8jCjw" changeDate="2023-04-01T16:39:51.679+0200">
-  <mainDescription>A personel responsible for writing code and submitting it for review. Also addresses issues and makes necessary changes to&#xD;
-code after getting feedback.</mainDescription>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qlxtn1_QYFDVSy1it8jCjw" name="new_role,_WpNXYNCaEe2sl55HJPdumQ" guid="-Qlxtn1_QYFDVSy1it8jCjw" changeDate="2023-04-15T12:30:36.836+0200">
+  <mainDescription>A software developer's role in code review is to write and test the code to meet the user's requirements and&#xD;
+specifications. They must also collaborate with code reviewers to ensure that their code is efficient, readable,&#xD;
+maintainable, and secure. Additionally, the software developer should be open to feedback and suggestions from code&#xD;
+reviewers to improve the quality of their code and ensure that it meets the necessary standards. Ultimately, the software&#xD;
+developer's role is critical in producing high-quality software that meets the user's needs and functions effectively.</mainDescription>
   <skills>Development, Code&amp;nbsp;Analysis, Code Writing, Programming skills, Communication skills, Problem-solving skills</skills>
 </org.eclipse.epf.uma:RoleDescription>

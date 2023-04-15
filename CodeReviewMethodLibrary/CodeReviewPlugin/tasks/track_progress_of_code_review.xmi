@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EGPC36MMMx6q7mYAa2TR6A" name=",_MrVtUNDMEe2sl55HJPdumQ" guid="-EGPC36MMMx6q7mYAa2TR6A">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EGPC36MMMx6q7mYAa2TR6A" name=",_MrVtUNDMEe2sl55HJPdumQ" guid="-EGPC36MMMx6q7mYAa2TR6A" changeDate="2023-04-15T16:29:05.387+0200">
+  <mainDescription>Tracking the progress of code review is an essential task that involves monitoring the review process to ensure that it is&#xD;
+progressing as planned. This task includes keeping track of the review's status, identifying bottlenecks in the process,&#xD;
+and taking steps to address them. The tracking progress involves communicating with the code reviewers and development team&#xD;
+to ensure that the review process is moving efficiently and that any issues are addressed promptly. Ultimately, tracking&#xD;
+the progress of code review is critical in ensuring that the review process is completed within the timeline and produces&#xD;
+high-quality, efficient, and effective code.</mainDescription>
   <sections xmi:id="_c-NaQNFNEe2T9Kw2TWBJNg" name="Monitor the progress of the code review, including the completion of tasks and provided feedback" guid="_c-NaQNFNEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_kB4RUNFNEe2T9Kw2TWBJNg" name="Ensure that the review process is going according to the established timeline" guid="_kB4RUNFNEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_nMqLQNFNEe2T9Kw2TWBJNg" name="*Make sure that any updates or changes in the review process are known by all participants of the process" guid="_nMqLQNFNEe2T9Kw2TWBJNg"/>

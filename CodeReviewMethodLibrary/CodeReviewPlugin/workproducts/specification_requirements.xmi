@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9maFrOUOTIJFjiCV0oRrmg" name="new_deliverable,_BP7FkNFeEe2T9Kw2TWBJNg" guid="-9maFrOUOTIJFjiCV0oRrmg">
-  <mainDescription>Base field</mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9maFrOUOTIJFjiCV0oRrmg" name="new_deliverable,_BP7FkNFeEe2T9Kw2TWBJNg" guid="-9maFrOUOTIJFjiCV0oRrmg" changeDate="2023-04-15T19:52:33.480+0200">
+  <mainDescription>Specification requirements provide detailed information about what the software system is expected to do and how it should&#xD;
+behave in different situations. They outline the user needs, business requirements, and technical specifications that&#xD;
+developers must adhere to when building the system. A clear and complete set of specification requirements is critical for&#xD;
+successful software development and effective code review.</mainDescription>
 </org.eclipse.epf.uma:DeliverableDescription>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-THUCv0tNMwac0DTo_guWng" name="new_role,_0dgbsNCcEe2sl55HJPdumQ" guid="-THUCv0tNMwac0DTo_guWng" changeDate="2023-04-01T16:55:29.014+0200">
-  <mainDescription>A personel responsible for overseeing the development process&amp;nbsp;one part of which is&amp;nbsp;code review. Tracks progress&#xD;
-of code evolving, code review timelines, project timelines and coordinates all teams that involved in the development&#xD;
-process.</mainDescription>
+  <mainDescription>A project manager oversee and establish guidelines for thorough and consistent code reviews, select appropriate tools, and&#xD;
+continuously refine the process for optimal results, with the goal of ensuring high-quality code that meets project needs.&#xD;
+Project manager tracks progress of code evolving, code review timelines, project timelines and coordinates all teams that&#xD;
+involved in the development process.</mainDescription>
   <skills>Tracking Development Process, Code Review, Team Management and Coordination, Strong Organization skills, Strong Management&#xD;
 skills, Effective Communication skills</skills>
 </org.eclipse.epf.uma:RoleDescription>

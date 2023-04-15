@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qDgo-xeM-SF8tnmNoQg3pA" name=",_P0CxMNCsEe2sl55HJPdumQ" guid="-qDgo-xeM-SF8tnmNoQg3pA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qDgo-xeM-SF8tnmNoQg3pA" name=",_P0CxMNCsEe2sl55HJPdumQ" guid="-qDgo-xeM-SF8tnmNoQg3pA" changeDate="2023-04-15T16:30:45.556+0200">
   <mainDescription>Update is based on the feedback of reviewer, tester, quality analyst or project manager and to make code clean, stable,&#xD;
-etc.</mainDescription>
+etc. The task of updating code is an essential aspect of the code review process, which involves making changes or&#xD;
+improvements to the code based on feedback from code reviewers. The task requires the developer to carefully analyze the&#xD;
+feedback and suggestions provided by the code reviewers and make appropriate modifications to the code. The developer must&#xD;
+ensure that the updated code meets the necessary standards, is efficient, and free of errors or bugs. Updating code is&#xD;
+critical in ensuring that the software development process produces high-quality, efficient, and effective code that meets&#xD;
+the user's requirements and specifications.</mainDescription>
   <sections xmi:id="_vDoukNFNEe2T9Kw2TWBJNg" name="Address reviewer feedback by making necessary changes to the code/architecture" guid="_vDoukNFNEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_zNpQ4NFNEe2T9Kw2TWBJNg" name="Respond to reviewer comments and questions to clarify any issues or not obvious parts of code that may help them to make better review" guid="_zNpQ4NFNEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_8BynENFNEe2T9Kw2TWBJNg" name="*Test the updated code to ensure it still meets functional requirements and is free of bugs" guid="_8BynENFNEe2T9Kw2TWBJNg"/>

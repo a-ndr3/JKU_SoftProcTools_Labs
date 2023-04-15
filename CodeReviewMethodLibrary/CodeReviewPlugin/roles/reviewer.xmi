@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8Hqmb2GCfvbhKw9LCcwcGg" name="new_role,_YxQzkNCbEe2sl55HJPdumQ" guid="-8Hqmb2GCfvbhKw9LCcwcGg" changeDate="2023-04-01T16:45:27.827+0200">
-  <mainDescription>A personel responsible for reviewing code and check it for correctness, maintaiability, readability and other standards&#xD;
-that required by project or company. Provides feedback and issues to be fixed as well as improvements needed in the code.</mainDescription>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8Hqmb2GCfvbhKw9LCcwcGg" name="new_role,_YxQzkNCbEe2sl55HJPdumQ" guid="-8Hqmb2GCfvbhKw9LCcwcGg" changeDate="2023-04-13T21:20:21.045+0200">
+  <mainDescription>A code reviewer plays a vital role in ensuring that the code written by developers meets the necessary standards and is&#xD;
+free of bugs and errors. The code reviewer's responsibilities are examining the code for accuracy, readability,&#xD;
+maintainability, and security. They must communicate effectively with the development team, identify potential issues and&#xD;
+suggest improvements, and ensure that the code meets the project's requirements. The code reviewer ensure that the software&#xD;
+development process produces high-quality, efficient, and effective code.</mainDescription>
   <skills>Code Review, Code&amp;nbsp;Analysis, Feedback Writing, Analytical skills, Communication skills, Attention to details</skills>
 </org.eclipse.epf.uma:RoleDescription>

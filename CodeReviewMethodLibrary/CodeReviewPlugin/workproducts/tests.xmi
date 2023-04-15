@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kTN7n2aq_T977nxeIkAlVA" name="tests,_t5cl4NCpEe2sl55HJPdumQ" guid="-kTN7n2aq_T977nxeIkAlVA" changeDate="2023-04-15T20:08:39.268+0200">
+  <mainDescription>A test is a set of conditions or variables used to determine whether a particular piece of software or system is working&#xD;
+correctly. This involves creating test cases, executing them, and analyzing the results to ensure the code meets the&#xD;
+specified requirements and functions as intended. The main objective of this work product is to identify and fix any&#xD;
+defects or issues in the code before it is released. Test typically include expected inputs and outputs, as well as any&#xD;
+preconditions or postconditions that must be met in order for the test to be considered successful.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

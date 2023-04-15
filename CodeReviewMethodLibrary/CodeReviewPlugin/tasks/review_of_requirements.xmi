@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MTQ8QsPX_D3SaRSL94SMUw" name=",_AARBUNCqEe2sl55HJPdumQ" guid="-MTQ8QsPX_D3SaRSL94SMUw">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MTQ8QsPX_D3SaRSL94SMUw" name=",_AARBUNCqEe2sl55HJPdumQ" guid="-MTQ8QsPX_D3SaRSL94SMUw" changeDate="2023-04-15T12:42:20.982+0200">
+  <mainDescription>The reviewing requirements is a critical task for ensuring that software code meets the needs of users and stakeholders.&#xD;
+This may involve examining requirements documentation, reviewing user stories, and verifying that code changes align with&#xD;
+specified requirements. By conducting a thorough review of requirements, development teams can ensure that software&#xD;
+products are of high quality, meet user needs, and deliver value to the organization.</mainDescription>
   <sections xmi:id="_GTfnwNFLEe2T9Kw2TWBJNg" name="Review the project requirements and specifications" guid="_GTfnwNFLEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_I-4P8NFLEe2T9Kw2TWBJNg" name="Check if code meets the required standards" guid="_I-4P8NFLEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_NSG_sNFLEe2T9Kw2TWBJNg" name="Check if code has any gaps in the requirements/standards etc. " guid="_NSG_sNFLEe2T9Kw2TWBJNg"/>

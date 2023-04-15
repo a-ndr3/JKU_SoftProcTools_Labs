@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-izmFyV5PM39dYgDj8Kua0g" name="new_deliverable,_oC6DgNFdEe2T9Kw2TWBJNg" guid="-izmFyV5PM39dYgDj8Kua0g">
-  <mainDescription>Base field</mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-izmFyV5PM39dYgDj8Kua0g" name="new_deliverable,_oC6DgNFdEe2T9Kw2TWBJNg" guid="-izmFyV5PM39dYgDj8Kua0g" changeDate="2023-04-15T19:47:23.758+0200">
+  <mainDescription>A specification for reviews is a work product that provides a framework for conducting effective code reviews. It includes&#xD;
+guidelines on reviewing code for functionality, readability, maintainability, and adherence to coding standards. The&#xD;
+specification also outlines the roles and responsibilities of the review participants and the process for addressing any&#xD;
+issues that arise during the review.</mainDescription>
 </org.eclipse.epf.uma:DeliverableDescription>

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bvx9r4hTxlH0lK_G56Qytg" name="new_practice,_uVuH0NDNEe2sl55HJPdumQ" guid="-Bvx9r4hTxlH0lK_G56Qytg" changeDate="2023-04-01T22:45:47.257+0200">
-  <mainDescription>May show some examples of effective strategies how to do better code reviews and&amp;nbsp;how to&amp;nbsp;provide constructive&#xD;
-feedback. As well as focusing on the most important issues and critical areas of code.</mainDescription>
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Bvx9r4hTxlH0lK_G56Qytg" name="new_practice,_uVuH0NDNEe2sl55HJPdumQ" guid="-Bvx9r4hTxlH0lK_G56Qytg" changeDate="2023-04-15T20:22:11.589+0200">
+  <mainDescription>&lt;p>&#xD;
+    May show some examples of effective strategies how to do better code reviews and&amp;nbsp;how to&amp;nbsp;provide constructive&#xD;
+    feedback. As well as focusing on the most important issues and critical areas of code.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Best practices:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Establish code review as a regular part of your development process&lt;br />&#xD;
+    2. Assign roles and responsibilities to reviewers and developers&lt;br />&#xD;
+    3. Use a code review checklist to ensure all important aspects are covered&lt;br />&#xD;
+    4. Review only small, manageable chunks of code at a time&lt;br />&#xD;
+    5. Provide constructive feedback that focuses on the code, not the developer&lt;br />&#xD;
+    6. Encourage discussion and collaboration between the reviewer and the developer&lt;br />&#xD;
+    7. Use automated tools to help identify issues such as bugs, security vulnerabilities, and style violations&lt;br />&#xD;
+    8. Consider the impact of changes on the overall system and any potential dependencies&lt;br />&#xD;
+    9. Keep reviews timely and don't let them drag on for too long&lt;br />&#xD;
+    10. Follow up on any action items or issues that are identified during the review process.&#xD;
+&lt;/p></mainDescription>
   <problem>To help reviewers to do better job by providing them with support.</problem>
   <goals>Make it easier for code reviewers to remember important parts of this area.</goals>
 </org.eclipse.epf.uma:PracticeDescription>

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kr9isJg_DMgRS2Qh34cM_A" name=",_EjjpgNCuEe2sl55HJPdumQ" guid="-Kr9isJg_DMgRS2Qh34cM_A">
-  <mainDescription>&lt;p>&#xD;
-    May contain various things such as: detailed feedback on the code, potential issues/bugs/improvements.&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kr9isJg_DMgRS2Qh34cM_A" name=",_EjjpgNCuEe2sl55HJPdumQ" guid="-Kr9isJg_DMgRS2Qh34cM_A" changeDate="2023-04-15T12:47:25.328+0200">
+  <mainDescription>Reviewing code is a critical task in the software development process, as it helps identify defects early in the&#xD;
+development cycle, reduces the risk of software failures, and improves the overall quality of the software product. This&#xD;
+may involve using manual review techniques, automated tools, or a combination of both to identify coding errors, security&#xD;
+vulnerabilities, performance issues, and other defects. By conducting a thorough review of code, development teams can&#xD;
+ensure that software products are of high quality, meet user needs, and deliver value to the organization.</mainDescription>
   <sections xmi:id="_zoGqMNFLEe2T9Kw2TWBJNg" name="Review the submitted code, paying attention to its correctness, readability, maintainability and other requirements and standards" guid="_zoGqMNFLEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_7OSYcNFLEe2T9Kw2TWBJNg" name="Provide detailed feedback on the code, highlighting any areas of improvement/issues/bugs etc." guid="_7OSYcNFLEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_BfiUENFMEe2T9Kw2TWBJNg" name="*Discuss found bugs/issues if any with other reviwers or developers and document them" guid="_BfiUENFMEe2T9Kw2TWBJNg"/>

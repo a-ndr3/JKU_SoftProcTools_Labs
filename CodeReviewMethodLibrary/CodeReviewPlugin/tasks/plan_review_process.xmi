@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TGARh2Mtab56lRcJzGG7ZA" name=",_BSRgINDIEe2sl55HJPdumQ" guid="-TGARh2Mtab56lRcJzGG7ZA">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TGARh2Mtab56lRcJzGG7ZA" name=",_BSRgINDIEe2sl55HJPdumQ" guid="-TGARh2Mtab56lRcJzGG7ZA" changeDate="2023-04-15T12:40:34.832+0200">
+  <mainDescription>Code review requires careful planning to ensure that the process is structured, and effective in identifying defects and&#xD;
+improving software quality. This may involve defining review objectives and success criteria, selecting appropriate review&#xD;
+methods and tools, establishing review guidelines and procedures, and identifying team members with the necessary skills&#xD;
+and expertise to conduct the review. By planning the review process carefully, development teams can ensure that code&#xD;
+review is an effective tool for improving software quality and delivering value to users and stakeholders.</mainDescription>
   <sections xmi:id="_Wo17ANFKEe2T9Kw2TWBJNg" name="Define what should be reviewed" guid="_Wo17ANFKEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_aIl_YNFKEe2T9Kw2TWBJNg" name="Define who should participate in it  (developers, testers, reviwers, quality analysts etc.)" guid="_aIl_YNFKEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_eRHT8NFKEe2T9Kw2TWBJNg" name="Create a schedule of code reviews, set deadlines and timeline for review process" guid="_eRHT8NFKEe2T9Kw2TWBJNg"/>

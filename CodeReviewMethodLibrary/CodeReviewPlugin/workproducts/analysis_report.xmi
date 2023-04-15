@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dh0ix6V3d2OF2OG-19sxMQ" name="analysis_report,_w_6dANCoEe2sl55HJPdumQ" guid="-Dh0ix6V3d2OF2OG-19sxMQ" changeDate="2023-04-15T17:37:10.579+0200">
+  <mainDescription>The analysis report is a critical work product in the code review process, as it provides stakeholders with an overview of&#xD;
+the code review findings, including any defects or issues identified, and recommendations for improving code quality. The&#xD;
+report may also include metrics on code quality, such as code complexity, as well as information on any follow-up actions&#xD;
+needed to address identified issues. By producing an analysis report, development teams can ensure that software products&#xD;
+are of high quality, meet user needs, and deliver value to the organization.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

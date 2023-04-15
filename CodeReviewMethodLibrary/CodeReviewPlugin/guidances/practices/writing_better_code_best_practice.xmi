@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gpJOPi4gLvTix-YhTorWWw" name="new_practice,_wvcYQNDNEe2sl55HJPdumQ" guid="-gpJOPi4gLvTix-YhTorWWw" changeDate="2023-04-01T22:48:47.449+0200">
+<org.eclipse.epf.uma:PracticeDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gpJOPi4gLvTix-YhTorWWw" name="new_practice,_wvcYQNDNEe2sl55HJPdumQ" guid="-gpJOPi4gLvTix-YhTorWWw" changeDate="2023-04-15T20:28:26.363+0200">
+  <mainDescription>&lt;p>&#xD;
+    Best practice:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Write clear, concise, and readable code. Use meaningful names for variables, functions, and classes, and avoid using&#xD;
+    abbreviations or acronyms that may not be immediately clear to others.&lt;br />&#xD;
+    2. Use consistent coding styles and conventions throughout your codebase. This helps ensure that your code is easy to&#xD;
+    read and understand, even if it was written by someone else.&lt;br />&#xD;
+    3. Write modular and reusable code. Break down complex functions into smaller, more manageable pieces, and avoid&#xD;
+    duplicating code across your project.&lt;br />&#xD;
+    4. Use comments judiciously to explain what your code does and why it does it. Avoid writing comments that simply&#xD;
+    restate what the code already does, and instead focus on providing insights into your thought process and any potential&#xD;
+    edge cases.&lt;br />&#xD;
+    5. Write testable code. Ensure that your code can be easily tested and that it produces consistent results across&#xD;
+    different environments and inputs.&lt;br />&#xD;
+    6. Handle errors and exceptions gracefully. Be proactive in identifying and addressing potential errors in your code,&#xD;
+    and ensure that your code can recover from unexpected errors and failures.&lt;br />&#xD;
+    7. Continuously refactor and optimize your code. Regularly review and update your code to ensure that it remains&#xD;
+    performant, efficient, and scalable, and that it adheres to best practices and coding standards.&#xD;
+&lt;/p></mainDescription>
   <problem>&lt;p>&#xD;
     To make it easier for developers to follow guidelines and requirements of a project through examples.&#xD;
 &lt;/p></problem>

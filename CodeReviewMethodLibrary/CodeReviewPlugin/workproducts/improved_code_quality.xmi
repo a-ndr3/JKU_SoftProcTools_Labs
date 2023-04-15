@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-abaxkeVSO9Vk5Z2Q-5pQDw" name="new_outcome,_H5st0NDNEe2sl55HJPdumQ" guid="-abaxkeVSO9Vk5Z2Q-5pQDw">
-  <mainDescription>Brief description: Makes it easier to reuse the code and make guidelines out of it&lt;br />&#xD;
-&lt;br />&#xD;
-The code review process leads to higher code quality by identifying and addressing issues, potential bugs and areas for&#xD;
-improvement.</mainDescription>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-abaxkeVSO9Vk5Z2Q-5pQDw" name="new_outcome,_H5st0NDNEe2sl55HJPdumQ" guid="-abaxkeVSO9Vk5Z2Q-5pQDw" changeDate="2023-04-15T18:34:31.649+0200">
+  <mainDescription>The code review process leads to higher code quality by identifying and addressing issues, potential bugs and areas for&#xD;
+improvement. Improved code quality ensures that software products are of high quality, meet user needs, and deliver value&#xD;
+to the organization. By reviewing and analyzing code, identifying defects and issues, and implementing recommended&#xD;
+improvements, development teams can ensure that software products are reliable, maintainable, and scalable. Improved code&#xD;
+quality can also reduce the risk of bugs and defects, improve development team productivity, and enhance overall customer&#xD;
+satisfaction.</mainDescription>
   <purpose>&lt;p>&#xD;
     To get better and reusable code&#xD;
 &lt;/p></purpose>

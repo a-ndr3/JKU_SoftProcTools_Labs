@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AfWirS78NPYI56CFW-LdKQ" name="new_deliverable,_aIl6MNFcEe2T9Kw2TWBJNg" guid="-AfWirS78NPYI56CFW-LdKQ">
-  <mainDescription>All requirements needed to proceed with code development&lt;br />&#xD;
-Base field</mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AfWirS78NPYI56CFW-LdKQ" name="new_deliverable,_aIl6MNFcEe2T9Kw2TWBJNg" guid="-AfWirS78NPYI56CFW-LdKQ" changeDate="2023-04-15T19:42:48.955+0200">
+  <mainDescription>The specification for developers guides developers throughout the development process. It provides a clear understanding of&#xD;
+the software project's requirements and functionalities, ensuring that developers write code that meets the project's&#xD;
+needs. The document typically includes information on project scope, design specifications, coding standards, and testing&#xD;
+requirements.</mainDescription>
   <purpose>To help developer understand standards and requirements of the project/task</purpose>
 </org.eclipse.epf.uma:DeliverableDescription>

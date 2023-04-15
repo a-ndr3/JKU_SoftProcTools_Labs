@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bsbhnxU-0hudSV3Ft8DSNA" name="new_deliverable,_PX3-INCiEe2sl55HJPdumQ" guid="-bsbhnxU-0hudSV3Ft8DSNA">
-  <mainDescription>&lt;p>&#xD;
-    Initial piece of software development process.&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bsbhnxU-0hudSV3Ft8DSNA" name="new_deliverable,_PX3-INCiEe2sl55HJPdumQ" guid="-bsbhnxU-0hudSV3Ft8DSNA" changeDate="2023-04-15T19:30:04.581+0200">
+  <mainDescription>Source code provides the instructions for computers to execute software applications. It is typically created by developers&#xD;
+and is reviewed by peers and testers to ensure it is accurate, efficient, and follows coding standards. Source code is&#xD;
+often maintained in version control systems, such as Git or SVN, to enable collaboration among team members and keep track&#xD;
+of changes over time.</mainDescription>
   <purpose>to be reviewed</purpose>
 </org.eclipse.epf.uma:DeliverableDescription>

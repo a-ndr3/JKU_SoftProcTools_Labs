@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fe_KoYGdDm9Kv7C0hEzF9A" name="following_coding_standards,_YoSLANDNEe2sl55HJPdumQ" guid="-Fe_KoYGdDm9Kv7C0hEzF9A">
-  <mainDescription>Brief description: Makes it easier to reuse code in the future.&lt;br />&#xD;
-&lt;br />&#xD;
-The code review process ensures that the code follows coding standards, project guidelines and requirements, resulting in a&#xD;
-consistent and maintainable codebase.</mainDescription>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fe_KoYGdDm9Kv7C0hEzF9A" name="following_coding_standards,_YoSLANDNEe2sl55HJPdumQ" guid="-Fe_KoYGdDm9Kv7C0hEzF9A" changeDate="2023-04-15T18:10:11.198+0200">
+  <mainDescription>Following coding standards ensures that software code is consistent, maintainable, and of high quality. This may include&#xD;
+following established coding conventions, using appropriate naming conventions, documenting code thoroughly, and using&#xD;
+appropriate error handling and testing practices. By following coding standards, development teams can ensure that software&#xD;
+products are of high quality, meet user needs, and deliver value to the organization.</mainDescription>
 </org.eclipse.epf.uma:WorkProductDescription>

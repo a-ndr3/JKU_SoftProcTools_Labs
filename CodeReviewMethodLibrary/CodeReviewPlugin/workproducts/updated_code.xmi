@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GNpRFKCq-BD7auwhfWbZDA" name="new_deliverable,_S5ZkINCiEe2sl55HJPdumQ" guid="-GNpRFKCq-BD7auwhfWbZDA">
-  <mainDescription>&lt;p>&#xD;
-    Based on feedback recieved during the review process.&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GNpRFKCq-BD7auwhfWbZDA" name="new_deliverable,_S5ZkINCiEe2sl55HJPdumQ" guid="-GNpRFKCq-BD7auwhfWbZDA" changeDate="2023-04-15T20:10:52.901+0200">
+  <mainDescription>The process of code review often results in the identification of bugs, inefficiencies, and areas for improvement. Once&#xD;
+these issues have been identified and documented, the developer can implement changes to the code, resulting in an updated&#xD;
+version of the software. The updated code should be reviewed again to ensure that all the issues have been addressed&#xD;
+properly.</mainDescription>
   <purpose>to be created after review</purpose>
 </org.eclipse.epf.uma:DeliverableDescription>

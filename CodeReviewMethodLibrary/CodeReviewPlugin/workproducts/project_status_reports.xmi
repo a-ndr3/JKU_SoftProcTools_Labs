@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-acuV-I87E5WW7fmThRv9ew" name="project_status_reports,_GblUYNCpEe2sl55HJPdumQ" guid="-acuV-I87E5WW7fmThRv9ew" changeDate="2023-04-15T19:09:16.989+0200">
+  <mainDescription>Project status reports enable the team to stay informed about the status of the review and ensure that any issues are&#xD;
+addressed in a timely and effective manner. These reports provide regular updates on the progress of the review, including&#xD;
+the status of code reviews, any issues identified, and the action plans to address them. By providing this information,&#xD;
+project status reports help to ensure that the code review process is transparent and well-managed, enabling the team to&#xD;
+maintain high-quality software code that meets the project objectives.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

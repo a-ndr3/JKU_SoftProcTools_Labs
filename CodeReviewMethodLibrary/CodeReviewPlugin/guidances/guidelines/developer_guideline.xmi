@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NYh6L4RPkPpn9zE9YUMvtg" name="new_guideline,_rNAqcNDNEe2sl55HJPdumQ" guid="-NYh6L4RPkPpn9zE9YUMvtg">
-  <mainDescription>Brief desciption(cant save in the field): helps developers to get ready for code review.&lt;br />&#xD;
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NYh6L4RPkPpn9zE9YUMvtg" name="new_guideline,_rNAqcNDNEe2sl55HJPdumQ" guid="-NYh6L4RPkPpn9zE9YUMvtg" changeDate="2023-04-15T20:12:06.214+0200">
+  <mainDescription>&lt;p>&#xD;
+    A document may contain the responsibilities and expectations for developers during the code review process, such as&#xD;
+    preparing the code for review, responding to feedback, and making necessary changes.&#xD;
+&lt;/p>&#xD;
 &lt;br />&#xD;
-A document may contain the responsibilities and expectations for developers during the code review process, such as&#xD;
-preparing the code for review, responding to feedback, and making necessary changes.</mainDescription>
+&lt;p>&#xD;
+    Guidance:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Ensure that the code is following the coding standards defined by the organization or team.&lt;br />&#xD;
+    2. Make sure that the code is written in an efficient and maintainable manner.&lt;br />&#xD;
+    3. Ensure that the code is properly documented with clear and concise comments.&lt;br />&#xD;
+    4. Include error handling and exception handling in the code to handle unexpected scenarios.&lt;br />&#xD;
+    5. Avoid hardcoding of values and use constants or variables instead.&lt;br />&#xD;
+    6. Ensure that the code is modular and follows the principle of separation of concerns.&lt;br />&#xD;
+    7. Avoid unnecessary complexity in the code by breaking it down into smaller and simpler functions.&lt;br />&#xD;
+    8. Ensure that the code is properly tested and all test cases are passed.&lt;br />&#xD;
+    9. Be open to feedback and suggestions from the reviewers and make necessary changes to the code accordingly.&lt;br />&#xD;
+    10. Ensure that the code is properly reviewed before committing it to the codebase.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

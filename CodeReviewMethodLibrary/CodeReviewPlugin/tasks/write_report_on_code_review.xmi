@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UkWMCHCo5a1WlKLqcVoA7Q" name="write_report_on_code_review,_3ZUHsNCrEe2sl55HJPdumQ" guid="-UkWMCHCo5a1WlKLqcVoA7Q" changeDate="2023-04-01T22:17:49.345+0200">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UkWMCHCo5a1WlKLqcVoA7Q" name="write_report_on_code_review,_3ZUHsNCrEe2sl55HJPdumQ" guid="-UkWMCHCo5a1WlKLqcVoA7Q" changeDate="2023-04-15T16:31:41.504+0200">
   <mainDescription>To monitor progress of code review. To make it easier for code reviewers to follow guidelines and complete tasks within&#xD;
-timeline.</mainDescription>
+timeline. The task of writing a report on code review is a critical aspect of the review process, which involves&#xD;
+documenting the findings and recommendations from the code review. The report should include an overview of the code review&#xD;
+process, the issues and recommendations identified, and any changes made to the code. The report should outline any next&#xD;
+steps or actions required to address the issues identified in the code review. Writing a report on code review is essential&#xD;
+in ensuring that the review process is documented and can be used as a reference for future development.</mainDescription>
   <sections xmi:id="_F6-SsNFOEe2T9Kw2TWBJNg" name="Summarize the key findings and recommendations from the code review process" guid="_F6-SsNFOEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_HwNWANFOEe2T9Kw2TWBJNg" name="Document any problems and issues that have happened" guid="_HwNWANFOEe2T9Kw2TWBJNg"/>
   <sections xmi:id="_KcCqINFOEe2T9Kw2TWBJNg" name="Write what can possibly be done to resolve these issues and make suggestions for possible improvements so to not have such problems in the future" guid="_KcCqINFOEe2T9Kw2TWBJNg"/>

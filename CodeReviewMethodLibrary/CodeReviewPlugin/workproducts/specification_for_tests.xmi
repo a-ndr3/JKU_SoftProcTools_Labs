@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cgSrEErbd8BwM4LV_E_mcQ" name="new_deliverable,_T8UoYNFgEe2T9Kw2TWBJNg" guid="-cgSrEErbd8BwM4LV_E_mcQ">
-  <mainDescription>Base field</mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cgSrEErbd8BwM4LV_E_mcQ" name="new_deliverable,_T8UoYNFgEe2T9Kw2TWBJNg" guid="-cgSrEErbd8BwM4LV_E_mcQ" changeDate="2023-04-15T19:48:57.972+0200">
+  <mainDescription>The specification for tests outlines the testing requirements for a software project. It includes the types of tests that&#xD;
+need to be performed, the expected outcomes, and the criteria for success. The specification helps ensure that the code is&#xD;
+thoroughly tested and meets the requirements of the project.</mainDescription>
 </org.eclipse.epf.uma:DeliverableDescription>

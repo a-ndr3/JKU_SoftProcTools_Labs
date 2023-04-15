@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZyEZwsiFD6ZNmAjgHKG7dQ" name="new_deliverable,_Y0JrUNCiEe2sl55HJPdumQ" guid="-ZyEZwsiFD6ZNmAjgHKG7dQ" changeDate="2023-04-01T17:34:42.306+0200">
-  <mainDescription>Contains feedback and comments. May also contain suggestions for improvements, potential weak spots (i.e potential bugs).&#xD;
-Summary and recomendations.</mainDescription>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZyEZwsiFD6ZNmAjgHKG7dQ" name="new_deliverable,_Y0JrUNCiEe2sl55HJPdumQ" guid="-ZyEZwsiFD6ZNmAjgHKG7dQ" changeDate="2023-04-15T19:21:35.276+0200">
+  <mainDescription>The review report provides a comprehensive overview of the code's strengths and weaknesses and identifies areas where&#xD;
+improvements can be made. This document typically includes an overview of the review process, a summary of the code's&#xD;
+structure and functionality, and a list of issues and recommendations for improvement. By creating a thorough review&#xD;
+report, the team can ensure that all stakeholders have a clear understanding of the code's quality and can make informed&#xD;
+decisions about how to move forward with the project.</mainDescription>
   <purpose>to validate source code</purpose>
 </org.eclipse.epf.uma:DeliverableDescription>

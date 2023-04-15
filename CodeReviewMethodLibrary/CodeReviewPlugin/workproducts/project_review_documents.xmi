@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliverableDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xLfH2cJoESePIe2Hyb2Jnw" name="project_review_documents,_JlPM8NCpEe2sl55HJPdumQ" guid="-xLfH2cJoESePIe2Hyb2Jnw" changeDate="2023-04-15T18:47:46.279+0200">
+  <mainDescription>Project review documents provide a record of the review process and its outcomes, and serve as a reference for future&#xD;
+development work. These documents may include code analysis reports, review plans, summary reports, and other materials&#xD;
+that capture the findings and recommendations of the code review process. By creating and maintaining these documents,&#xD;
+development teams can ensure that they have a clear understanding of the software code, its strengths and weaknesses, and&#xD;
+the steps needed to improve its quality and maintainability over time.</mainDescription>
+</org.eclipse.epf.uma:DeliverableDescription>

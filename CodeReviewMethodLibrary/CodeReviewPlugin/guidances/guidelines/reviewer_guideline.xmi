@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tZIJAH_lnH_YxvxHE7Z0EA" name="new_guideline,_oOcAgNDNEe2sl55HJPdumQ" guid="-tZIJAH_lnH_YxvxHE7Z0EA" changeDate="2023-04-01T22:55:03.858+0200">
-  <mainDescription>Brief desciption(cant save info in the field above): Helps reviewers to get ready for their code reviews.&lt;br />&#xD;
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tZIJAH_lnH_YxvxHE7Z0EA" name="new_guideline,_oOcAgNDNEe2sl55HJPdumQ" guid="-tZIJAH_lnH_YxvxHE7Z0EA" changeDate="2023-04-15T20:19:09.503+0200">
+  <mainDescription>&lt;p>&#xD;
+    A document contains the responsibilities and expectations for reviewers, as well as strategies how to provide feedback,&#xD;
+    engage in discussions, and prioritize review efforts.&#xD;
+&lt;/p>&#xD;
 &lt;br />&#xD;
-A document contains the responsibilities and expectations for reviewers, as well as strategies how to provide feedback,&#xD;
-engage in discussions, and prioritize review efforts.</mainDescription>
+&lt;p>&#xD;
+    Guidance:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. Understand the project requirements and coding standards before starting the review.&lt;br />&#xD;
+    2. Review the code in small, digestible chunks to prevent missing important details.&lt;br />&#xD;
+    3. Use a checklist or template to ensure that all important aspects of the code are evaluated.&lt;br />&#xD;
+    4. Provide constructive feedback and suggestions for improvement, while maintaining a professional tone.&lt;br />&#xD;
+    5. Prioritize high-risk areas of the code, such as security vulnerabilities or performance issues.&lt;br />&#xD;
+    6. Verify that the code is adequately tested, and that the tests are comprehensive and appropriate.&lt;br />&#xD;
+    7. Consider the code's maintainability, and whether it will be easy for future developers to understand and&#xD;
+    modify.&lt;br />&#xD;
+    8. Look for areas where the code can be simplified, optimized, or refactored to improve performance or&#xD;
+    readability.&lt;br />&#xD;
+    9. Keep the focus on the code, rather than the individual who wrote it.&lt;br />&#xD;
+    10. Clearly document the feedback provided and any decisions made during the review process.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

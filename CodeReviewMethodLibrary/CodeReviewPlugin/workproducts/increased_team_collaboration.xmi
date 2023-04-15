@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9eQnCVc_rRc4Hez9DzpmcA" name="increased_team_collaboration,_TxsPgNDNEe2sl55HJPdumQ" guid="-9eQnCVc_rRc4Hez9DzpmcA">
-  <mainDescription>Brief description: Better teamwork and cooperation in future projects&lt;br />&#xD;
-&lt;br />&#xD;
-The code review process makes collaboration among team members better, promoting knowledge sharing and collective ownership&#xD;
-of the codebase</mainDescription>
+<org.eclipse.epf.uma:WorkProductDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9eQnCVc_rRc4Hez9DzpmcA" name="increased_team_collaboration,_TxsPgNDNEe2sl55HJPdumQ" guid="-9eQnCVc_rRc4Hez9DzpmcA" changeDate="2023-04-15T18:43:32.462+0200">
+  <mainDescription>Increased team collaboration is a critical work product in the code review process, as it fosters a culture of teamwork,&#xD;
+communication, and continuous improvement. By working together to review and improve software code, team members can share&#xD;
+knowledge and expertise, identify and address issues more effectively, and build stronger relationships based on mutual&#xD;
+respect and trust. This can result in increased productivity, faster time to market, and better software products that meet&#xD;
+user needs and deliver value to the organization.</mainDescription>
 </org.eclipse.epf.uma:WorkProductDescription>
